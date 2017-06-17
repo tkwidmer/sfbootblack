@@ -1,0 +1,49 @@
+exclude: ['vendor']
+include: ['_pages', '_pages/film', '_pages/writing', 'pages/photography']
+
+title:            Teagan Widmer
+email:            tkwidmer@gmail.com
+blog_title:       A Cubicle Of My Own
+tagline:          Software Engineer and Writer
+url:              http://www.teaganwidmer.me
+paginate:         1
+author:
+  name:           Teagan Widmer
+  url:            https://www.teaganwidmer.me
+  email:          tkwidmer@gmail.com
+  twitter:        https://twitter.com/twidx
+
+# Site settings
+description: > # this means to ignore newlines until "baseurl:"
+  Teagan Widmer is a software engineer, writer, artist and activist from San Francisco.
+  She writes about feminism, diveristy in tech, and the lgbt community.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.teaganwidmer.me" # the base hostname & protocol for your site
+twitter_username: twidx
+github_username:  tkwidmer
+
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+collections:
+  galleries:
+    output: true
+
+# Build settings
+pages: ./_pages
+markdown: kramdown
+
+pages_list:
+  Programming: '/pages/programming.html'
+  Speaking:   '/pages/speaking.html'
+  Blog: '/blog.html'
+  Feed: '/feed.xml'
+
+social_links:
+  - icon: fa-twitter
+    url: http://www.twitter.com/twidx
+  - icon: fa-github
+    url: http://www.github.com/tkwidmer
+
+gems:
+  - jekyll-redirect-from

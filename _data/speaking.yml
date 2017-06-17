@@ -1,0 +1,132 @@
+# format:
+# - title:
+#   role:
+#   location:
+#   date:
+
+upcoming:
+  - title: "[Trans] Gender 101: Introduction to the Trans Communities"
+    role: "Guest Lecture"
+    location: "Pacific Union College"
+    date: "Spring 2011. 2012. 2013. 2014. 2015. 2016"
+
+past:
+  2016:
+    - title: "There's an App for That: A Roundup of Health Apps for Youth"
+      role: "Panelist"
+      location: YTH Live. San Francisco. California
+      date: "April, 2016"
+      link: "http://yth.org/ythlive/about/sessions-2016/"
+
+    - title: "Getting Your Clients the Help They Need: Resource Apps"
+      role: "Panelist"
+      location: NTC2016. San Jose. California
+      date: "March, 2016"
+      link: http://www.nten.org/session/getting-your-clients-the-help-they-need-three-models-for-resource-and-referral-apps/
+
+    - title: "Women in STEM Fields"
+      role: "Panelist"
+      location: "Sac State. Sacremento, CA"
+      date: "March, 2016"
+
+    - title: "[Trans] Gender 101: Introduction to the Trans Communities"
+      role: "Guest Lecture"
+      location: "Pacific Union College"
+      date: "Spring. 2016"
+
+  2015:
+    - title: "Refuge Restrooms Pitch"
+      role: "Presenter"
+      location: "Apps For Change Demo. San Francisco, CA"
+      date: "2015"
+
+    - title: "How to Optimize Your Personal Wealth While Working for a Startup"
+      role: Presenter.
+      location: "Uncubed SF. San Francisco, CA"
+      date: "2015"
+
+    - title: "...And So Can You!"
+      role: "Speaker"
+      location: "<a href='https://ti.to/github-events/patchwork-sf-pride'>Patchwork.io Pride</a>. San Francisco, CA"
+      date: "2015"
+
+    - title: "[Trans] Gender 101: Introduction to the Trans Communities"
+      role: "Guest Lecture"
+      location: "Pacific Union College"
+      date: "Spring. 2015"
+
+  2014:
+    - title: "...And So Can You!"
+      role: "Speaker"
+      location: "Trans Code SF. Speaker Night. SF LGBT Community Center"
+      date: "2014"
+
+    - title: "[Trans] Gender 101: Introduction to the Trans Communities"
+      role: "Guest Lecture"
+      location: "Pacific Union College"
+      date: "Spring. 2014"
+
+  2013:
+
+    - title: "[Trans] Gender 101: Introduction to the Trans Communities"
+      role: "Guest Lecture"
+      location: "Pacific Union College"
+      date: "Spring. 2013"
+
+  2012:
+    - title: "[Trans] Gender 102: How to be a Better Ally"
+      role: "Guest Lecture"
+      location: "SDA Kinship Kampmeeting"
+      date: "2012"
+
+    - title: "[Trans] Gender 101: Introduction to the Trans Communities"
+      role: "Guest Lecture"
+      location: "SDA Kinship Kampmeeting"
+      date: "2012"
+
+    - title: "Consent in Transgender and Non-Binary Relationships"
+      role: "Workshop Leader"
+      location: "VCU's Queer Action"
+      date: "2012"
+
+    - title: "[Trans] Gender 101: Introduction to the Trans Communities"
+      role: "Guest Lecture"
+      location: "Pacific Union College"
+      date: "Spring. 2012"
+
+  2011:
+    - title: "The Transgender Voice."
+      role: "Guest Lecture"
+      location: Virginia Commonwealth University.
+      date: "2011"
+
+    - title: "Depictions of Transgender Women in Contemporary Film"
+      role: "Presenter"
+      location: Virginia Commonwealth University.
+      date: "2011"
+
+    - title: "[Trans] Gender 101: Introduction to the Trans Communities"
+      role: "Guest Lecture"
+      location: "Pacific Union College"
+      date: "Spring. 2011"
+
+  2010:
+    - title: "MLA Style for Theatre Students"
+      role: "Presenter"
+      location: Virginia Commonwealth University.
+      date: "2010"
+
+    - title: "Introduction to Documentary Theater"
+      role: "Presenter"
+      location: Virginia Commonwealth University.
+      date: "2010"
+
+    - title: "The Elizabethan Stage"
+      role: "Guest Lecture"
+      location: Virginia Commonwealth University.
+      date: "2010"
+
+    - title: "College Days: Theater Workshop"
+      role: "Workshop Host"
+      location: "Pacific Union College"
+      date: "2006-2010. Nine Times"

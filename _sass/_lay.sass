@@ -1,0 +1,33 @@
+$v-space-multiplier: 15px
+$l-space-multiplier: 15px
+
+.container-fluid
+  max-width: 1600px
+
+#main-layout
+  transition: all 0.4 ease 0s
+  overflow: hidden
+  margin-top: 15px
+
+.page-content
+  padding: $spacing-unit
+
+@for $i from 1 through 5
+  .vspace#{$i}
+    margin-top: $v-space-multiplier * $i
+
+@for $i from 1 through 5
+  .fspace#{$i}
+    margin-bottom: $v-space-multiplier * $i
+
+@for $i from 1 through 5
+  .lhspace#{$i}
+    margin-left: $l-space-multiplier * $i
+
+img.feature-image
+  float: right
+  width: 400px
+
+ul
+  li
+    margin-bottom: 10px

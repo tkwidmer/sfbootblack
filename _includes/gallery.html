@@ -1,0 +1,21 @@
+<h1>{{page.title}}</h1><small><a href="/galleries/"> return to all galleries</a></small>
+
+<div class="clearfix">
+  
+</div>
+<div class="flexbox-gallery">
+  {% for gallery in site.data.galleries %}
+    {% if gallery.id == page.gallery %}
+      {% for image in gallery.images %}
+          <a href="{{image.path}}"
+            data-toggle="lightbox"
+            data-gallery="{{gallery.id}}">
+            <div class="gallery-img"
+              style="background-image: url('{{image.path}}')"
+              title="{{ image.title}}">
+            </div>
+          </a>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</div>
