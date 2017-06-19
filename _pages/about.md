@@ -1,14 +1,15 @@
 ---
 layout: page
 title: About
-permalink: '/pages/about.html'
+permalink: '/about/'
 ---
-# About Teagan
 
-<h6>Founder & Maintainer, Refuge Restrooms.</h6>
-<h6>Software Engineer, FutureAdvisor.</h6>
+<header class="major special">
+	<h2>About The Contest</h2>
+	<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+</header>
 
-### Long Bio
+## About The Contest
 
 Teagan is a self taught software developer with a background in object orientated design.
 She endevors to write code that is clean, understandable, elegant, and innovative. In addition to her
@@ -19,7 +20,7 @@ and events all over the United States. She currently works as a software enginee
 is the founder of RefugeRestrooms. A resident of Oakland, California -- She likes to imagine that
 in the future she will sit down reading a good book next to a roaring fire in a den with lots of bookshelves.
 
-### Short Bio
+# Short Bio
 
 Teagan is a self taught developer from Oakland, California. She currently works as a software engineer
 at FutureAdvisor and is the founder of RefugeRestrooms. In addition to her work as an
