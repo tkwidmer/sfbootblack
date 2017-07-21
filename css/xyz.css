@@ -1,6 +1,6 @@
 @import url(font-awesome.min.css);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
-
+@import 'splash';
 /*
 	Spatial by TEMPLATED
 	templated.co @templatedco
@@ -3090,7 +3090,7 @@
 	#banner {
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("../images/sf1.jpg"), url("../../images/banner.jpg");
 		background-position: center top;
 		background-size: cover;
 		line-height: 1.75;
@@ -3266,3 +3266,9 @@
 				}
 
 		}
+
+.outline-header {
+	color: white;
+	text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+	font-family: "Roboto Condensed";
+};

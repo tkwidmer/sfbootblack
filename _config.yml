@@ -1,26 +1,24 @@
 exclude: ['vendor']
 include: ['_pages', '_pages/film', '_pages/writing', 'pages/photography']
 
-title:            Teagan Widmer
-email:            tkwidmer@gmail.com
-blog_title:       A Cubicle Of My Own
-tagline:          Software Engineer and Writer
-url:              http://www.teaganwidmer.me
+title:            San Francisco Bootblack
+email:            producer@sanfranciscobootblack.com
+url:              http://www.sanfranciscobootblack.com
 paginate:         1
 author:
-  name:           Teagan Widmer
-  url:            https://www.teaganwidmer.me
-  email:          tkwidmer@gmail.com
+  name:           San Francisco Bootblack Producers
+  url:            http://www.sanfranciscobootblack.com
+  email:          producer@sanfranciscobootblack.com
   twitter:        https://twitter.com/twidx
 
 # Site settings
 description: > # this means to ignore newlines until "baseurl:"
-  Teagan Widmer is a software engineer, writer, artist and activist from San Francisco.
-  She writes about feminism, diveristy in tech, and the lgbt community.
+  The San Francisco Bootblack contest will be held as part of the Leather Alliance Weekend 2018
+  along side the Mr San Francisco Leather Contest.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.teaganwidmer.me" # the base hostname & protocol for your site
-twitter_username: twidx
-github_username:  tkwidmer
+url: "http://www.sanfranciscobootblack.com" # the base hostname & protocol for your site
+# twitter_username: twidx
+# github_username:  tkwidmer
 
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
@@ -33,17 +31,19 @@ collections:
 pages: ./_pages
 markdown: kramdown
 
-pages_list:
-  Programming: '/pages/programming.html'
-  Speaking:   '/pages/speaking.html'
-  Blog: '/blog.html'
-  Feed: '/feed.xml'
+# pages_list:
+#   Programming: '/pages/programming.html'
+#   Speaking:   '/pages/speaking.html'
+#   Blog: '/blog.html'
+#   Feed: '/feed.xml'
 
-social_links:
-  - icon: fa-twitter
-    url: http://www.twitter.com/twidx
-  - icon: fa-github
-    url: http://www.github.com/tkwidmer
+# social_links:
+#   - icon: fa-twitter
+#     url: http://www.twitter.com/twidx
+#   - icon: fa-github
+#     url: http://www.github.com/tkwidmer
 
 gems:
   - jekyll-redirect-from
+
+header-img: "/images/sf1.jpg"

@@ -1,38 +1,36 @@
 ---
-layout: default
-title: Home
+layout: clean_page
+header-img: "images/sf1.jpg"
 ---
-<div class="splash">
-  <div class="container">
-    <div class="header text-center align-middle">
-      <h1> SAN FRANCISCO BOOTBLACK </h1>
-    </div>
 
-    <div class="row even-more-headroom">
-      <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2">
-        <div class="card">
-          <div class="card-block">
-            <h2 class="card-title"> Save the Date!</h2>
-            <h6 class="card-subtitle">March 2-3, 2018<br /> Leather Alliance Weekend</h3>
-
-            <p class="more-headroom">
-              The San Francisco Bay Area Leather Alliance is excited to announce the addition of a new title to the Leather Alliance Weekend in 2018. The first <strong>San Francisco Bootblack</strong> title will be held along side the 36th Mr San Francisco Leather contest. The bootblack contest is open to all, regardless of identified gender and the titleholder will represent and help grow Bootblack community in the greater San Francisco bay area.
-            </p>
-            <p>
-              More info to come...
-            </p>
-
-            <img src="/images/sfba_logo.png" class="org-logo" />
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="text-center align-middle even-more-headroom">
-        <!-- <img src="/images/sfbb_new.png" class="img-fluid org-logo" /> -->
-        <!-- <img src="/images/mr_sf_logo_transparent.png" class="img-fluid org-logo" /> -->
-        <!-- <br /> -->
-    </div>
-
-  </div>
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
+<hr>
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
