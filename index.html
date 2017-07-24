@@ -3,14 +3,16 @@ layout: clean_page
 header-img: "images/sf1.jpg"
 ---
 
-### Want to get involved?
-
-Email producer[at]sanfranciscobootblack.com to get involved!
+<h3>Want to get involved?</h3>
+<p>
+  Email producer[at]sanfranciscobootblack.com to get involved!
+</p>
 
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
+        <h2 class="post-title">
+          {{ post.title }}
         </h2>
         {% if post.subtitle %}
         <h3 class="post-subtitle">
