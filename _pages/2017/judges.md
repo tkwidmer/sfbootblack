@@ -1,5 +1,5 @@
 ---
-layout: clean_page
+layout: new_page
 title: 2017 Judges
 permalink: '/2017/judges/'
 header-img: "images/closeup.jpg"
@@ -9,30 +9,18 @@ header-img: "images/closeup.jpg"
 
 <br/>
 
-#### slave tabitha
+<div class="row">
 
-##### International Ms Bootblack 2015
+<div class="col-sm-6 col-md-4">
+  {% include redesign/bio_card.html judge=site.data.2017.judges.tabitha %}
+</div>
 
-<p>
-This is Tabitha's Bio
-</p>
+<div class="col-sm-6 col-md-4">
+  {% include redesign/bio_card.html judge=site.data.2017.judges.gage %}
+</div>
 
-<br/>
+<div class="col-sm-6 col-md-4">
+  {% include redesign/bio_card.html judge=site.data.2017.judges.gage %}
+</div>
 
-#### Ms V
-
-##### International Ms Bootblack 2007
-
-<p>
-This is Ms V's Bio
-</p>
-
-<br/>
-
-#### Gauge Fisher
-
-##### Mr SF Eagle Leather 2014
-
-<p>
-This is Gauges's Bio
-</p>
+</div>

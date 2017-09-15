@@ -1,11 +1,15 @@
 ---
-layout: clean_page
+layout: new_page
 title: Contact
 permalink: '/contact/'
 header-img: "images/closeup.jpg"
 ---
 
 ## Contact Us
+
+<div class="row">
+
+  <div class="col-sm-6">
 
 <form method="POST" action="http://formspree.io/producer@sanfranciscobootblack.com">
   <div class="form-group">
@@ -18,3 +22,7 @@ header-img: "images/closeup.jpg"
   </div>
   <button class='btn btn-default' type="submit">Send</button>
 </form>
+
+</div>
+
+</div>

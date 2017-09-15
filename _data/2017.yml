@@ -1,0 +1,12 @@
+judges:
+  tabitha:
+    name: "slave tabitha"
+    title: "International Ms Bootblack 2015"
+    bio: "Some quick example text to build on the card title and make up the bulk of the card's content."
+    photo: "/images/2017/tabitha.jpg"
+  gage:
+    name: "Gage Fisher"
+    title: "Mr SF Eagle 2014"
+    bio: "Some quick example text to build on the card title and make up the bulk of the card's content."
+    photo: "/images/2017/gage.jpg"
+  unkown:
