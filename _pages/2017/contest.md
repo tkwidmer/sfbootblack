@@ -1,5 +1,5 @@
 ---
-layout: clean_page
+layout: new_page
 title: 2017 Contest
 permalink: '/2017/contest/'
 header-img: "images/closeup.jpg"
