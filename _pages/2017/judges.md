@@ -20,7 +20,7 @@ header-img: "images/closeup.jpg"
 </div>
 
 <div class="col-sm-6 col-md-4">
-  {% include redesign/bio_card.html judge=site.data.2017.judges.gage %}
+  {% include redesign/bio_card.html judge=site.data.2017.judges.v %}
 </div>
 
 </div>

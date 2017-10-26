@@ -9,7 +9,11 @@ judges:
     title: "Mr SF Eagle 2014"
     bio: "Some quick example text to build on the card title and make up the bulk of the card's content."
     photo: "/images/2017/gage.jpg"
-  unkown:
+  v:
+    name: "Ms V"
+    title: "International Ms Bootblack 2007"
+    bio: "Some quick example text to build on the card title and make up the bulk of the card's content."
+    photo: "/images/2017/ms_v.jpg"
 
 contestants:
   kenzi:

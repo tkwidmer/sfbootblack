@@ -3,70 +3,70 @@ layout: new
 header-img: "images/sf1.jpg"
 ---
 
-
 {% include redesign/jumbotron.html %}
 
 <div class='row'>
   <div class="col-sm-8">
-    {% for post in paginator.posts %}
-    <div class="post-preview">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <h2 class="post-title">
-            {{ post.title }}
-          </h2>
-        </a>
+    {% assign firstPost = site.posts.first %}
+    <h1 class="post-title">
+      {{ firstPost.title }}
+    </h1>
 
-        {% if post.subtitle %}
-        <h5 class="post-subtitle">
-            {{ post.subtitle }}
-        </h5>
-        {% endif %}
-
-        {% if post.excerpt %}
-          <p>
-            {{ post.excerpt }}
-          </p>
-        {% endif %}
-
-
-        <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
-    </div>
-    {% endfor %}
-
-    {% if paginator.total_pages > 1 %}
-    <ul class="pager">
-        {% if paginator.previous_page %}
-        <li class="previous">
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-        </li>
-        {% endif %}
-        {% if paginator.next_page %}
-        <li class="next">
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-        </li>
-        {% endif %}
-    </ul>
+    {% if firstPost.subtitle %}
+    <h5 class="vspace1" class="post-subtitle">
+        {{ firstPost.subtitle }}
+    </h5>
     {% endif %}
 
+    <small class="post-meta vspace1">
+      Posted by {% if firstPost.author %}{{ firstPost.author }}{% else %}{{ site.title }}{% endif %} on {{ firstPost.date | date: "%B %-d, %Y" }}
+    </small>
+
+    <div class="vspace2">
+      {{ firstPost.content }}
+    </div>
+
+
+
+    <h4 class="vspace3"> Recent Posts </h4>
+    <ul>
+      {% for post in site.posts offset: 1 limit:10 %}
+        <li>
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+          </a>
+          ({{ post.date | date: "%B %-d, %Y" }})
+      </li>
+      {% endfor %}
+    </ul>
   </div>
+
   <div class="col-sm-4">
     <h3> Applications </h3>
     <p>
       Do you want to be the first San Francisco Bootblack?
     </p>
-    <div class="vspace1"></div>
-
     <button type="button" disabled class="btn btn-secondary">
         Coming Soon!
     </button>
-    <div class="vspace3"></div>
+    <div class="vspace2"></div>
 
     <h3>Want to get involved?</h3>
-    <div class="vspace1"></div>
     <a href="/contact" class="btn btn-primary">
         Contact Us!
     </a>
-    <div class="vspace3"></div>
+    <div class="vspace2"></div>
+    <h3>Links</h3>
+    <ul>
+      <li>
+        <a href="http://leatheralliance.org/">SF Leather Alliance</a>
+      </li>
+      <li>
+        <a href="http://leatherallianceweekend.org/">Leather Alliance Weekend</a>
+      </li>
+    </ul>
+
+    <div class="vspace2"></div>
 
     <img src="images/final_logo.png" style="height: 200px; display: inline-block" />
     <img src="/images/sfba_logo.png" style="height: 100px; display: inline-block" />

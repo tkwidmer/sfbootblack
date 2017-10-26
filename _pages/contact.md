@@ -11,7 +11,7 @@ header-img: "images/closeup.jpg"
 
   <div class="col-sm-6">
 
-<form method="POST" action="http://formspree.io/producer@sanfranciscobootblack.com">
+<form method="POST" action="http://formspree.io/bootblackcontest@leatheralliance.org">
   <div class="form-group">
     <label for="emailInput" class="control-label"> Email Address </label>
     <input id="emailInput" class="form-control" type="email" name="email" placeholder="example@example.com">

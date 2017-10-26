@@ -36,9 +36,9 @@ header-img: "images/closeup.jpg"
     </p>
 
     <h2> Getting Involved </h2>
-    <p>
-      Email producer[at]sanfranciscobootblack.com to get involved!
-    </p>
+    <a href="/contact" class="btn btn-primary">
+        Contact Us!
+    </a>
   </div>
 
   <div class="col-sm-4">
