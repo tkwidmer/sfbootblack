@@ -12,9 +12,14 @@ header-img: "images/closeup.jpg"
   <div class="col-sm-6">
 
 <form method="POST" action="http://formspree.io/bootblackcontest@leatheralliance.org">
+  <input type="hidden" name="_subject" value="New submission!" />
   <div class="form-group">
     <label for="emailInput" class="control-label"> Email Address </label>
-    <input id="emailInput" class="form-control" type="email" name="email" placeholder="example@example.com">
+    <input id="emailInput" class="form-control" type="email" name="_replyto" placeholder="example@example.com">
+  </div>
+  <div class="form-group">
+    <label for="nameInput" class="control-label"> Name </label>
+    <input id="nameInput" class="form-control" type="name" name="name" placeholder="John Doe">
   </div>
   <div class="form-group">
     <label for="messageInput" class="control-label"> Message </label>
