@@ -13,6 +13,7 @@ header-img: "images/closeup.jpg"
 
 <form method="POST" action="http://formspree.io/bootblackcontest@leatheralliance.org">
   <input type="hidden" name="_subject" value="New submission!" />
+  <input type="hidden" name="_next" value="http://www.sanfranciscobootblack.com/contact/success" />
   <div class="form-group">
     <label for="emailInput" class="control-label"> Email Address </label>
     <input id="emailInput" class="form-control" type="email" name="_replyto" placeholder="example@example.com">
