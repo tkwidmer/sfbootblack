@@ -26,7 +26,7 @@ header-img: "images/closeup.jpg"
     <label for="messageInput" class="control-label"> Message </label>
     <textarea class="form-control" name="message" placeholder="Your message"></textarea>
   </div>
-  <button class='btn btn-default' type="submit">Send</button>
+  <button class='btn btn-primary' type="submit">Send</button>
 </form>
 
 </div>

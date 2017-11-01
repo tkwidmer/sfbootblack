@@ -5,22 +5,12 @@ permalink: '/2017/judges/'
 header-img: "images/closeup.jpg"
 ---
 
-## 2017 Bootblack Judges
+{% include redesign/bio_card_horizantal.html judge=site.data.2017.judges.tabitha %}
 
-<br/>
+<div class="vspace3"> </div>
 
-<div class="row">
+{% include redesign/bio_card_horizantal.html judge=site.data.2017.judges.v %}
 
-<div class="col-sm-6 col-md-4">
-  {% include redesign/bio_card.html judge=site.data.2017.judges.tabitha %}
-</div>
+<div class="vspace3"> </div>
 
-<div class="col-sm-6 col-md-4">
-  {% include redesign/bio_card.html judge=site.data.2017.judges.gage %}
-</div>
-
-<div class="col-sm-6 col-md-4">
-  {% include redesign/bio_card.html judge=site.data.2017.judges.v %}
-</div>
-
-</div>
+{% include redesign/bio_card_horizantal.html judge=site.data.2017.judges.gage %}

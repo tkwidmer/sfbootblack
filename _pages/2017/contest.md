@@ -7,6 +7,8 @@ header-img: "images/closeup.jpg"
 
 # Contest Components
 
+<div class="vspace3"> </div>
+
 ### Speech and Formal Wear (100 Points)
 
 Contestants will give a speech no longer than two minutes on a topic of their choice.
@@ -37,13 +39,9 @@ Contestants will have no more than 7 minutes for the presentation. This will be 
 a short Q&A from the judges. The presentation will take place directly before the
 personal Interview.
 
-### Fireside Chat (75 Points)
+### Pop Question (75 Points)
 
-Contestants will have a short fireside chat on stage during the contest. They will
-be asked a few questions from a neutral party (not a judge). The objective here is
-to showcase the contestants personality. The questions should be open ended 'get to know'
-you questions. Contestants will be judged on their ability to think on their
-feed, stage presence, and the content of their answers.
+Contestants will answer a question on stage during the main contest.
 
 ### Stand Time (75 Points)
 
@@ -60,4 +58,6 @@ They also have a score points in this area during the day of the contest and as
 they interact with attendees during the weekend. They are judged on how they
 conduct themselves throughout the weekend.
 
-#### Total Points Possible 500 Points
+#### Total Points Possible
+
+500 Points

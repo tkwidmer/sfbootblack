@@ -10,8 +10,9 @@ header-img: "images/closeup.jpg"
     <h2> About the Contest </h2>
     <p>
     The San Francisco Bootblack title is open to individuals of **without regard to gender** who
-    identify as bootblacks and who live or work in the greater San Francisco Bay Area.
-    The region is loosely defined and includes Santa Rosa, Sacramento, San Jose, Santa Cruz etc.
+    identify as bootblacks and who live or work within the greater San Francisco Bay Area.
+    The region is defined to include Sonoma, Marin, Napa, Solano, Contra Costa, Alameda,
+    Santa Clara, Santa Cruz, San Mateo, and San Francisco Counties.*
     </p>
 
     <p>
@@ -39,6 +40,13 @@ header-img: "images/closeup.jpg"
     <a href="/contact" class="btn btn-primary">
         Contact Us!
     </a>
+
+    <p class="vspace3">
+      <small>
+      *In rare cases we may accept petitions to run from outside of the region, from counties which border
+      the defined region.
+      </small>
+    </p>
   </div>
 
   <div class="col-sm-4">

@@ -1,0 +1,18 @@
+<div class='row'>
+  <div class="col-sm-4">
+    <img src="{{include.judge.photo}}" width="100%" alt="Judge photo" />
+  </div>
+  <div class="col-sm-8">
+    <div class="d-block d-sm-none">
+      <div class="vspace1"></div>
+    </div>
+    
+    <h4 class="">{{ include.judge.name }}</h4>
+    <h6> {{ include.judge.title }} </h6>
+    <h6> {{ include.judge.title2 }} </h6>
+
+    {% unless include.hideBio %}
+      <p class="vspace1"> {{ include.judge.bio }}</p>
+    {% endunless %}
+  </div>
+</div>
