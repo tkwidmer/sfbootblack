@@ -1,7 +1,7 @@
 ---
 layout:     new_post
 title:      "Save The Date!"
-subtitle:   "First San Francisco Bootblack Contest set for March 2-3 2017"
+subtitle:   "First San Francisco Bootblack Contest set for March 2-3 2018"
 date:       2017-06-20 12:00:00
 author:     "Producers"
 header-img: "images/sf1.jpg"

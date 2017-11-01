@@ -1,7 +1,7 @@
 ---
 layout: new_page
-title: 2017 Contest
-permalink: '/2017/contest/'
+title: 2018 Contest
+permalink: '/2018/contest/'
 header-img: "images/closeup.jpg"
 ---
 

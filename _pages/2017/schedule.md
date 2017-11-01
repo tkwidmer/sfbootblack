@@ -1,7 +1,7 @@
 ---
 layout: new_page
-title: 2017 Contest Schedule
-permalink: '/2017/schedule/'
+title: 2018 Contest Schedule
+permalink: '/2018/schedule/'
 header-img: "images/closeup.jpg"
 ---
 
