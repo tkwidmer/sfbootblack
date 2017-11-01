@@ -5,11 +5,12 @@ layout: new
 <!-- Post Content -->
 <article>
   <div class="vspace4"></div>
-  {% include posts/header.html %}
-  <div class="vspace2"></div>
 
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    <div class="col-lg-8">
+      {% include posts/header.html %}
+      <div class="vspace2"></div>
+
 		  {{ content }}
 
       <nav>
@@ -26,6 +27,11 @@ layout: new
           {% endif %}
         </ul>
       </nav>
+    </div>
+    <div class="col-lg-4">
+      {% include redesign/recent_posts.html %}
+
+      {% include redesign/links.html %}
     </div>
   </div>
 </article>

@@ -27,5 +27,3 @@ The Leather Alliance Weekend, March 2-4, 2018 includes both the 1st San Francisc
 {% include redesign/bio_card_horizantal.html judge=site.data.2017.judges.v hideBio=true %}
 
 <div class="vspace1">
-
-{% include redesign/links.html %}

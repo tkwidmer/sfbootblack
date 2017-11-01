@@ -25,20 +25,6 @@ header-img: "images/sf1.jpg"
     <div class="vspace2">
       {{ firstPost.content }}
     </div>
-
-
-
-    <h4 class="vspace3"> Recent Posts </h4>
-    <ul>
-      {% for post in site.posts offset: 1 limit:10 %}
-        <li>
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
-          </a>
-          ({{ post.date | date: "%B %-d, %Y" }})
-      </li>
-      {% endfor %}
-    </ul>
   </div>
 
   <div class="col-sm-4">
@@ -51,24 +37,25 @@ header-img: "images/sf1.jpg"
     </button>
     <div class="vspace2"></div>
 
+    <h3>Tickets</h3>
+    <button type="button" disabled class="btn btn-secondary">
+        Coming Soon!
+    </button>
+
+    <div class="vspace2"></div>
+
     <h3>Want to get involved?</h3>
     <a href="/contact" class="btn btn-primary">
         Contact Us!
     </a>
     <div class="vspace2"></div>
-    <h3>Links</h3>
-    <ul>
-      <li>
-        <a href="http://leatheralliance.org/">SF Leather Alliance</a>
-      </li>
-      <li>
-        <a href="http://leatherallianceweekend.org/">Leather Alliance Weekend</a>
-      </li>
-    </ul>
+
+    {% include redesign/links.html offset=1 %}
 
     <div class="vspace2"></div>
 
-    <img src="images/final_logo.png" style="height: 200px; display: inline-block" />
-    <img src="/images/sfba_logo.png" style="height: 100px; display: inline-block" />
+    {% include redesign/recent_posts.html offset=1 %}
+
+    <div class="vspace2"></div>
   </div>
 </div>
