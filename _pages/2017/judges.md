@@ -1,7 +1,7 @@
 ---
 layout: new_page
-title: 2017 Judges
-permalink: '/2017/judges/'
+title: 2018 Judges
+permalink: '/2018/judges/'
 header-img: "images/closeup.jpg"
 ---
 
