@@ -12,18 +12,20 @@ layout: new
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 		  {{ content }}
 
-      <ul class="pager">
-        {% if page.previous.url %}
-        <li class="previous">
-            <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
-        </li>
-        {% endif %}
-        {% if page.next.url %}
-        <li class="next">
-            <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
-        </li>
-        {% endif %}
-      </ul>
+      <nav>
+        <ul class="pagination pagination-sm">
+          {% if page.previous.url %}
+          <li class="page-item">
+              <a class="page-link" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+          </li>
+          {% endif %}
+          {% if page.next.url %}
+          <li class="page-item">
+              <a class="page-link" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+          </li>
+          {% endif %}
+        </ul>
+      </nav>
     </div>
   </div>
 </article>
