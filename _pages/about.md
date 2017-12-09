@@ -8,12 +8,6 @@ header-img: "images/closeup.jpg"
 <div class="row">
   <div class="col-sm-8">
     <h2> About the Contest </h2>
-    <p>
-    The San Francisco Bootblack title is open to individuals of **without regard to gender** who
-    identify as bootblacks and who live or work within the greater San Francisco Bay Area.
-    The region is defined to include Sonoma, Marin, Napa, Solano, Contra Costa, Alameda,
-    Santa Clara, Santa Cruz, San Mateo, and San Francisco Counties.*
-    </p>
 
     <p>
     The SFBB title is the first bootblack title to represent the Northern California region since
@@ -35,6 +29,26 @@ header-img: "images/closeup.jpg"
       proposal during a board meeting in June of 2017. The board unanimously moved to
       add a bootblack contest.
     </p>
+
+    <h2> Eligibility </h2>
+    <p>
+    The San Francisco Bootblack title is open to individuals of <b>without regard to gender</b> who
+    identify as bootblacks and who live or work within the greater San Francisco Bay Area. The region is
+    defined as the following counties.
+    </p>
+
+    <ul>
+      <li> San Francisco </li>
+      <li> Alameda </li>
+      <li> San Mateo </li>
+      <li> Santa Clara </li>
+      <li> Contra Costa </li>
+      <li> Marin </li>
+      <li> Sonoma </li>
+      <li> Santa Cruz</li>
+      <li> Napa </li>
+      <li> Solano </li>
+    </ul>
 
     <h2> Getting Involved </h2>
     <a href="/contact" class="btn btn-primary">

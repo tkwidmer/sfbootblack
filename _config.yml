@@ -46,4 +46,4 @@ markdown: kramdown
 gems:
   - jekyll-redirect-from
 
-header-img: "/images/sf1.jpg"
+header-img: "images/sf1.jpg"
