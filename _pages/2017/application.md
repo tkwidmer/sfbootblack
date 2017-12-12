@@ -5,6 +5,10 @@ permalink: '/2018/app/'
 header-img: "images/closeup.jpg"
 ---
 
+## Application Deadline
+
+January 20th, 2018
+
 ## Prerequisites
 
 * Live or work within the region (as defined on the <a href="/about"> about
