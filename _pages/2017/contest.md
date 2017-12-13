@@ -7,6 +7,9 @@ header-img: "images/closeup.jpg"
 
 # Contest Components
 
+For the full weekend schedule please visit the <a href="/2018/schedule> schedule
+page</a>.
+
 ### Speech and Formal Wear (100 Points)
 
 Contestants will give a speech no longer than two minutes on a topic of their
@@ -20,7 +23,9 @@ questions posed to them by the Judging panel. The questions may be about any
 aspect of bootblacking, leather history, BDSM, or personal questions about the
 contestant. Contestants are not required to have a 'platform,' but questions
 from the judges may include plans for the contestant's title year if they were
-to win. The interview is open to the public.
+to win. The interview is open to the public. Additionally the personal interview
+will be scored by the Mr SF Leather judges as well. The scores of the Mr Judges
+will be averaged for an additional 100 point score
 
 ### Technical Boot & Technical Presentation (100 Points)
 
@@ -30,6 +35,8 @@ boots. The tech boot should not need major restoration, cobbling, or
 restoration. Boots will be assigned a random number, and contestants will draw
 which boot they will be working on. Contestants will have 45 minutes to complete
 their technical shine. You may not use open flame except to singe stray strings.
+The technical shine will take place during the cocktail hour on Friday Night at
+6pm.
 
 Contestants will give a brief presentation on their technical boot. They will
 discuss the process, products used, challenges faced and any other information
@@ -60,11 +67,13 @@ They also have a score points in this area during the day of the contest and as
 they interact with attendees during the weekend. They are judged on how they
 conduct themselves throughout the weekend.
 
-#### Total Points Possible
+### Total Points Possible
 
-500 Points
+500 Points per bootblack judge. 100 points for the Personal Interview scored by
+the Mr SF Leather Judges. Total points possible 1600. Must score 1120 points to
+win the title.
 
-#### Scoring System
+### Scoring System
 
 * There are three judges for the SF Bootblack Contest.
 * The contest is scored using straight scoring. All judges scores are counted.
