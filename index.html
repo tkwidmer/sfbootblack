@@ -25,38 +25,49 @@ header-img: "images/sf1.jpg"
     <div class="vspace2">
       {{ firstPost.content }}
     </div>
+
+    <div class="vspace2">
+      {% include redesign/recent_posts.html offset=1 %}
+    </div>
+
   </div>
 
   <div class="col-sm-4">
+    <img class="img-fluid" src="/images/dont-miss-the-deadline.png">
+    <div class="vspace2"></div>
+
     <h3> Applications </h3>
-    <h6> (New) Open Now! </h6>
+    <div class="vspace1"></div>
+
     <p>
       Do you have what it takes to be the first San Francisco Bootblack? Application deadline is January 20th, 2018.
     </p>
-    <a href="/2018/app/" class="btn btn-primary">
+    <a href="/2018/app/" class="btn btn-lg btn-primary">
       Apply Now!
     </a>
     <div class="vspace2"></div>
 
     <h3>Tickets</h3>
-    <button type="button" disabled class="btn btn-secondary">
+    <div class="vspace1"></div>
+
+    <button type="button" disabled class="btn btn-lg btn-secondary">
         Coming Soon!
     </button>
 
     <div class="vspace2"></div>
 
     <h3>Want to get involved?</h3>
-    <a href="/contact" class="btn btn-primary">
+    <div class="vspace1"></div>
+
+    <a href="/contact" class="btn btn-lg btn-success">
         Contact Us!
     </a>
+
     <div class="vspace2"></div>
 
     {% include redesign/links.html offset=1 %}
 
     <div class="vspace2"></div>
 
-    {% include redesign/recent_posts.html offset=1 %}
-
-    <div class="vspace2"></div>
   </div>
 </div>

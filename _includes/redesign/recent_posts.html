@@ -1,12 +1,15 @@
-<h4 class="vspace3"> Recent Posts </h4>
-<ul>
-  {% for post in site.posts offset: {{include.offset}} limit:10 %}
-    <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">
-        {{ post.title }}
-      </a>
-      <br />
-      ({{ post.date | date: "%B %-d, %Y" }})
-  </li>
-  {% endfor %}
-</ul>
+<h2 class="vspace3 fspace1"> Recent Posts </h2>
+
+{% for post in site.posts offset: {{include.offset}} limit:10 %}
+  <a href="{{ post.url | prepend: site.baseurl }}">
+    <h3>
+      {{ post.title }}
+    </h3>
+  </a> {{ post.date | date_to_long_string }}
+
+  <div class="vspace1"> </div>
+
+  {{ post.excerpt }}
+
+  <div class="vspace2"> </div>
+{% endfor %}
