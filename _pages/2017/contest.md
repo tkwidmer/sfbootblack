@@ -7,8 +7,6 @@ header-img: "images/closeup.jpg"
 
 # Contest Components
 
-<div class="vspace3"> </div>
-
 ### Speech and Formal Wear (100 Points)
 
 Contestants will give a speech no longer than two minutes on a topic of their
@@ -66,4 +64,16 @@ conduct themselves throughout the weekend.
 
 500 Points
 
-Contestant must reach 70% to win title.
+#### Scoring System
+
+* There are three judges for the SF Bootblack Contest.
+* The contest is scored using straight scoring. All judges scores are counted.
+* The personal interview will also be scored by the Mr San Francisco Leather
+  judges. Their score will be combined to add a 4th judges score for the
+  personal Interview.
+* Contestants must reach 70% to be awarded the title.
+* In the rare event of a tie, the winner will be determined using only the
+  scores from the following components: Speech, Personal Interview, and
+  Technical Boot and Presentation.
+* Scoring and Judges feedback will be made available to contestants within 60
+  days of the end of the contest.
