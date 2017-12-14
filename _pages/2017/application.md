@@ -19,6 +19,7 @@ January 20th, 2018
   community with references.
 * Be willing to fulfill the requirements set forth if you win the title.
 * Attend all dates required for the contest.
+* Read the <a href="/2018/contest">contest requirements</a>. 
 
 ## Required Dates Leading Up to Contest
 
