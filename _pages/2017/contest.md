@@ -7,7 +7,7 @@ header-img: "images/closeup.jpg"
 
 # Contest Components
 
-For the full weekend schedule please visit the <a href="/2018/schedule> schedule
+For the full weekend schedule please visit the <a href="/2018/schedule"> schedule
 page</a>.
 
 ### Speech and Formal Wear (100 Points)
