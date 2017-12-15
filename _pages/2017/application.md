@@ -62,8 +62,7 @@ If you have any questions, please <a href="/contact"> contact us</a>.
 
 ## Application Fee
 
-There is a 50$ fee for your application to be accepted. Application Fee is payable via <a href="http://
-leatheralliance.org/paypal/"> this link</a>. In the Section marked "Special Instructions to this seller", please make the note: "SFBB Application Fee." Please submit your fee within 24 hours of submitting your application, or you risk your application being rejected.
+There is a 50$ fee for your application to be accepted. Application Fee is payable via <a href="http://leatheralliance.org/paypal/"> this link</a>. In the Section marked "Special Instructions to this seller", please make the note: "SFBB Application Fee." Please submit your fee within 24 hours of submitting your application, or you risk your application being rejected.
 
 ## Ready to Apply?
 
