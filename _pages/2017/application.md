@@ -19,7 +19,7 @@ January 20th, 2018
   community with references.
 * Be willing to fulfill the requirements set forth if you win the title.
 * Attend all dates required for the contest.
-* Read the <a href="/2018/contest">contest requirements</a>. 
+* Read the <a href="/2018/contest">contest requirements</a>.
 
 ## Required Dates Leading Up to Contest
 
@@ -60,8 +60,7 @@ application.
 
 If you have any questions, please <a href="/contact"> contact us</a>.
 
-## Application Deadline
+## Ready to Apply?
 
-Application Deadline is January 15th at 11:59pm
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeHvF8hAbT61Wm9L7piRXWnbrXWuSrDWabeV-1-PnXj9x1ePQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<a class="vspace2 btn btn-lg btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSeHvF8hAbT61Wm9L7piRXWnbrXWuSrDWabeV-1-PnXj9x1ePQ/viewform" > Application Form </a>
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeHvF8hAbT61Wm9L7piRXWnbrXWuSrDWabeV-1-PnXj9x1ePQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> -->

@@ -2,7 +2,7 @@
 
 {% for post in site.posts offset: {{include.offset}} limit:10 %}
   <a href="{{ post.url | prepend: site.baseurl }}">
-    <h3>
+    <h3 class="no-margin">
       {{ post.title }}
     </h3>
   </a> {{ post.date | date_to_long_string }}
