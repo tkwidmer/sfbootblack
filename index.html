@@ -7,26 +7,33 @@ header-img: "images/sf1.jpg"
 
 <div class='row'>
   <div class="col-sm-8">
+
+    {% include contest/applications_open.html %}
+
+    <hr class="vspace2" class="fspace2" />
+
     {% assign firstPost = site.posts.first %}
     <h1 class="post-title">
       {{ firstPost.title }}
     </h1>
 
     {% if firstPost.subtitle %}
-    <h5 class="vspace1" class="post-subtitle">
+    <h5 class="post-subtitle">
         {{ firstPost.subtitle }}
     </h5>
     {% endif %}
-
-    <small class="post-meta vspace1">
-      Posted by {% if firstPost.author %}{{ firstPost.author }}{% else %}{{ site.title }}{% endif %} on {{ firstPost.date | date: "%B %-d, %Y" }}
-    </small>
 
     <div class="vspace2">
       {{ firstPost.content }}
     </div>
 
-    <div class="vspace2">
+    <small class="post-meta vspace1">
+      Posted by {% if firstPost.author %}{{ firstPost.author }}{% else %}{{ site.title }}{% endif %} on {{ firstPost.date | date: "%B %-d, %Y" }}
+    </small>
+
+    <hr class="vspace2" class="fspace2" />
+
+    <div>
       {% include redesign/recent_posts.html offset=1 %}
     </div>
 
