@@ -64,6 +64,6 @@ header-img: "images/closeup.jpg"
   </div>
 
   <div class="col-sm-4">
-    <img src="/images/final_logo.png" style="height: 300px; display: inline-block" />
+    <img src="/images/logos/logo_no_date.png" style="height: 300px; display: inline-block" />
   </div>
 </div>
