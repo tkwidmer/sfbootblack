@@ -5,22 +5,12 @@ permalink: '/2018/contestants/'
 header-img: "images/closeup.jpg"
 ---
 
-## 2018 Bootblack Contestants
+{% include redesign/bio_card_horizantal.html judge=site.data.2018.contestants.camryn %}
 
-<br/>
+<div class="vspace1" />
 
-<div class="row">
+{% include redesign/bio_card_horizantal.html judge=site.data.2018.contestants.kenzi %}
 
-<div class="col-sm-6 col-md-4">
-  {% include redesign/bio_card.html judge=site.data.2018.judges.tabitha %}
-</div>
+<div class="vspace1" />
 
-<div class="col-sm-6 col-md-4">
-  {% include redesign/bio_card.html judge=site.data.2018.judges.gage %}
-</div>
-
-<div class="col-sm-6 col-md-4">
-  {% include redesign/bio_card.html judge=site.data.2018.judges.gage %}
-</div>
-
-</div>
+{% include redesign/bio_card_horizantal.html judge=site.data.2018.contestants.victoria %}

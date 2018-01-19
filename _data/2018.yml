@@ -25,7 +25,14 @@ judges:
   gage:
     name: "Gage Fisher"
     title: "Mr SF Eagle 2014"
-    bio: "Bio Coming Soon"
+    bio: |
+      Originally from Los Angeles, Gage was bartender at MJ’s and Bullet bar before moving to San Francisco almost 5 years ago to be a bartender at the SF Eagle. He is currently one of the mangers there that helps with daily operations.
+
+      After coming out in 2002 his adventures took him to the bars of LA like Pistons, Faultline and Gauntlet. There he waded through the cultures of bears and leather, finding where his desires aligned with others.
+
+      Some of his accomplishments include the Mr. SF Eagle 2014 title, co-producer of the Mr. SF Eagle Leather contest, organizing the December Ornament fundraiser benefitting SF Suicide Prevention and providing the cigars available at the Eagle anytime.
+
+      In his free time you might catch him watching anime, hiking urban and outdoors and kicking back in my boots with a beer and a cigar.
     photo: "/images/2018/gage.jpg"
   v:
     name: "Ms V"
@@ -35,22 +42,25 @@ judges:
       win that title. She has been a Bootblack for well over 12 years. She is a
       native of the San Francisco Bay Area. An active member of the San Francisco
       Leather Community, she has done extensive fundraising and has been groomed
-      and mentored, Leather titleholders both locally and nationally. She is a
-      graduate of the Journeyman 3 Academy, a member of the Exiles, a member of
+      and mentored, Leather titleholders both locally and nationally.
+
+      She is a graduate of the Journeyman 3 Academy, a member of the Exiles, a member of
       Mama's Family, a former member of the Leather Forum and she currently serves
       on the board for the IMSL Foundation. She was an original member of the
       SF Bootblack Studio, later known as the NorCal Bootblacks. She was responsible
       for bringing back the International Sir/boy, California Community Bootblack
-      Title back to Northern California. As the first woman to bootblack in
-      Leather bars in San Francisco, she was determined to seek more opportunities
+      Title back to Northern California.
+
+      As the first woman to bootblack in Leather bars in San Francisco, she was determined to seek more opportunities
       for both female identified Bootblacks and for Bootblacks of color to apply
       their craft. By breaking down barriers, Ms.V has paved the way for many other
       Bootblacks. She became the resident Bootblack for both the Powerhouse, and
       Chaps II/Kok Bars. She enjoyed a long tenure as the Bootblack to the former
       SF Stompers Boots store, servicing and restoring hundreds of boots. She presently
       co-hosts the Queer Leather Happy Hour and continues to foster community in
-      Leather. She is spiritual in her Leather journey. To her, Bootblacking is
-      religion. It is a deep and soul satisfying process which is an expression
+      Leather. She is spiritual in her Leather journey.
+
+      To her, Bootblacking is religion. It is a deep and soul satisfying process which is an expression
       of love and joyful devotion to her community and her people, which requires
       dedication. Her journey has taken her from trying to shine and perfect every
       boot to finding beauty in imperfection. Her process is simple, slow, and
@@ -60,6 +70,7 @@ judges:
       economy, austerity, modesty, intimacy, sensuality and appreciation. She
       continues to preserve the tradition of "honoring stories" by supporting
       the next generation of bootblacks and by spreading the gospel of boots.
+
       She is spiritual in her Leather journey and she shines in her artful Leather care.
     photo: "/images/2018/ms_v.jpg"
 
@@ -72,7 +83,7 @@ mcs:
 
   alotta:
     name: "Alotta Boutté"
-    bio: |
+    bio: |+
       Alotta Boutté is an international cabaret and burlesque sensation. Hailing from the nightclubs of San Francisco, she serves up sweet lyrical somethings that titillate your eyes and tantalize your ears.
 
       Ms. Boutte has been a featured performer at Tease-O-Rama, the Burlesque Hall of Fame, the New York Burlesque Festival, Helsinki Burlesque Festival, Stockholm’s Hootchy Kootchy Club and in Margaret Cho’s Sensuous Woman. She has shared the stage with the biggest and brightest in burlesque and cabaret. Recently, she starred as the Chanteuse in the Mugler Follies in Paris. She currently resides in San Francisco and is part of the world’s longest running musical revue, Beach Blanket Babylon. She was the last recipient of the Bay Area Leather Alliance Entertainer of the Year award (2010).
@@ -81,3 +92,18 @@ mcs:
 contestants:
   kenzi:
     name: Kenzi
+    bio: |
+      In very cold, snowy, rural areas, maintenance of leather is a crucial part of daily life. While still a child, Kenzi learned to properly Snoseal gloves and boots from her mom. She learned to polish from her military father. She started hanging around the bootblack stand at the SF Eagle a few years ago. During this time she was had the opportunity to expand her knowledge and learn valuable skills. She was introduced to the broader leather community as IMsL, which helped her belatedly find home in this community. She has mostly bootblack in private, but since her first public bootblacking at Desire earlier this year, she's gotten even more involved in the day to day work of the local bootblack community.
+    photo: "/images/2018/kenzi.jpeg"
+
+  camryn:
+    name: Camryn Obscura
+    bio: |
+      Camryn's bio will go here
+    photo: "/images/2018/camryn.jpg"
+
+  victoria:
+    name: Victoria Bootblack
+    bio: |
+      Victoria is a mouthy, unapologetically black, and highly-opinionated baby bootblack. Though fairly new to the leather community, she is long acquainted with general deviance and prurient behavior. Hobbies include: talking shit at the bootblack stand at SF Eagle, shouting into the void about racial injustice and/or the patriarchy, and forcing people to participate in lap-dance contests. She is an active member of a whole bunch of Leather organizations including SF girls of Leather and SF Bay Area Bootlab, for whom she organizes a monthly community event.
+    photo: "/images/2018/victoria.jpg"
