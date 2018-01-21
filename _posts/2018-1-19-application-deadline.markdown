@@ -18,6 +18,6 @@ Applications close tomorrow night at Midnight PST! So make sure you get your app
  Make sure you checkout the <a href="/2018/schedule"> weekend schedule </a> and the <a href="/2018/contest"> contest requirements.</a>
 </p>
 
-<a href="/2018/app/" class="btn btn-lg btn-primary">
-  Apply Now!
+<a href="/2018/app/" class="btn btn-lg btn-primary disabled">
+  Applications Are Closed
 </a>

@@ -15,5 +15,5 @@ header-img: "images/sf1.jpg"
 <p> The Application Deadline is January 20th, 2018. </p>
 
 <a href="/2018/app/" class="btn btn-lg btn-primary">
-  Apply Now!
+  Applications Are Closed
 </a>

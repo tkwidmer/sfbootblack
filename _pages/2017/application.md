@@ -7,6 +7,9 @@ header-img: "images/closeup.jpg"
 
 ## Application Deadline
 
+The application date has passed
+
+
 January 20th, 2018
 
 ## Prerequisites
@@ -64,6 +67,7 @@ If you have any questions, please <a href="/contact"> contact us</a>.
 
 There is a 50$ fee for your application to be accepted. Application Fee is payable via <a href="http://leatheralliance.org/paypal/"> this link</a>. In the Section marked "Special Instructions to this seller", please make the note: "SFBB Application Fee." Please submit your fee within 24 hours of submitting your application, or you risk your application being rejected.
 
+<!--
 ## Ready to Apply?
 
 <a class="vspace2 btn btn-lg btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSeHvF8hAbT61Wm9L7piRXWnbrXWuSrDWabeV-1-PnXj9x1ePQ/viewform" > Application Form </a>
