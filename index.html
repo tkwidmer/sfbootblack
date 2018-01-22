@@ -19,13 +19,13 @@ header-img: "images/sf1.jpg"
     </h5>
     {% endif %}
 
-    <div class="vspace2">
-      {{ firstPost.content }}
-    </div>
-
     <small class="post-meta vspace1">
       Posted by {% if firstPost.author %}{{ firstPost.author }}{% else %}{{ site.title }}{% endif %} on {{ firstPost.date | date: "%B %-d, %Y" }}
     </small>
+
+    <div class="vspace2">
+      {{ firstPost.content }}
+    </div>
 
     <hr class="vspace2" class="fspace2" />
 
