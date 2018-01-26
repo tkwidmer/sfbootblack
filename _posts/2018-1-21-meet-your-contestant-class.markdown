@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout:     new_post
 title:      "Meet The 2018 Bootblack Class"
 subtitle: |
@@ -31,4 +31,4 @@ The time has come to meet the contestant class of 2018. It's the moment you've a
   {% include redesign/bio_card.html judge=site.data.2018.contestants.victoria hideBio=true %}
   </div>
 
-</div> -->
+</div>
