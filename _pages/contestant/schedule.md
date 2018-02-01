@@ -11,6 +11,7 @@ permalink: '/2018/contestant/schedule/'
 ### February 17th
 
 * Contestant Rehearsal (Closed)
+  * 12-2pm
 
 ### Thursday March 1st
 
