@@ -1,4 +1,4 @@
-<h2 class="vspace3 fspace1"> Recent Posts </h2>
+<h2 class="fspace1"> Recent Posts </h2>
 
 {% for post in site.posts offset: {{include.offset}} limit:10 %}
   <a href="{{ post.url | prepend: site.baseurl }}">

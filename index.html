@@ -3,12 +3,23 @@ layout: new
 header-img: "images/sf1.jpg"
 ---
 
-{% include redesign/jumbotron.html %}
+<!-- {% include redesign/jumbotron.html %} -->
+
+<h1> 2018 Bootblack Contestants </h1>
+
+<img class="img-fluid" src="/images/2018/contestants.jpg"/>
+<p class="text-center vspace1">
+  <a href="/2018/contestants"> Click Here to Learn More About Our Contestants </a>
+</p>
 
 <div class='row'>
   <div class="col-sm-8">
-
-    {% assign firstPost = site.posts.first %}
+    <div class="hidden-sm-up">
+      <a href="https://www.cognitoforms.com/SFBayAreaLeatherAlliance1/_2018SFBayAreaLeatherAllianceWeekend">
+        <img class="img-fluid" src="/images/buy_tickets.png" />
+      </a>
+    </div>
+    <!-- {% assign firstPost = site.posts.first %}
     <h1 class="post-title">
       {{ firstPost.title }}
     </h1>
@@ -27,35 +38,24 @@ header-img: "images/sf1.jpg"
       {{ firstPost.content }}
     </div>
 
-    <hr class="vspace2" class="fspace2" />
+    <hr class="vspace2" class="fspace2" /> -->
 
     <div>
-      {% include redesign/recent_posts.html offset=1 %}
+      {% include redesign/recent_posts.html offset=0 %}
     </div>
 
   </div>
 
   <div class="col-sm-4">
-    <img class="img-fluid" src="/images/dont-miss-the-deadline.png">
-    <div class="vspace2"></div>
-
-    <h3> Applications </h3>
-    <div class="vspace1"></div>
-
-    <p>
-      Do you have what it takes to be the first San Francisco Bootblack? Application deadline is January 20th, 2018.
-    </p>
-    <a href="/2018/app/" class="btn btn-lg btn-primary disabled">
-      Applications Are Closed
+    <a href="https://www.cognitoforms.com/SFBayAreaLeatherAlliance1/_2018SFBayAreaLeatherAllianceWeekend">
+      <img class="img-fluid" src="/images/buy_tickets.png" />
     </a>
-    <div class="vspace2"></div>
-
     <h3>Tickets</h3>
     <div class="vspace1"></div>
 
-    <button type="button" disabled class="btn btn-lg btn-secondary">
-        Coming Soon!
-    </button>
+    <a href="https://www.cognitoforms.com/SFBayAreaLeatherAlliance1/_2018SFBayAreaLeatherAllianceWeekend" class="btn btn-lg btn-primary">
+        Buy Now!
+    </a>
 
     <div class="vspace2"></div>
 
