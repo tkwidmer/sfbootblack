@@ -13,7 +13,7 @@ layout: new
 
 		  {{ content }}
 
-      <nav>
+      <nav class="vspace2">
         <ul class="pagination pagination-sm">
           {% if page.previous.url %}
           <li class="page-item">
@@ -29,7 +29,7 @@ layout: new
       </nav>
     </div>
     <div class="col-lg-4">
-      {% include redesign/recent_posts.html %}
+      {% include redesign/recent_posts_links.html %}
 
       {% include redesign/links.html %}
     </div>
