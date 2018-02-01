@@ -11,11 +11,17 @@ header-img: "images/sf1.jpg"
 It's time to meet your masters of ceremonies for the 2018 San Francisco Bootblack Contest!
 This year we have two amazing MC's who have a history with the Leather Alliance.
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2018.mcs.lance hideBio=true %}
 
-<div class="vspace1">
-
-{% include redesign/bio_card_horizantal.html judge=site.data.2018.mcs.alotta hideBio=true %}
+<div class="row">
+  <div class="col-6 text-center">
+    <img class="img-fluid" src="{{site.data.2018.mcs.lance.photo}}"/>
+    <h3> {{site.data.2018.mcs.lance.name}} </h3>
+  </div>
+  <div class="col-6 text-center">
+    <img class="img-fluid" src="{{site.data.2018.mcs.alotta.photo}}"/>
+    <h3> {{site.data.2018.mcs.alotta.name}}  </h3>
+  </div>
+</div>
 
 <p class="vspace2">
   Want to know more? Check out our <a href="/2018/mcs"> mc page</a>.

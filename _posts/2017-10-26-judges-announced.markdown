@@ -16,14 +16,17 @@ Find out who we chose below! For full bios and judges information please visit t
 The Leather Alliance Weekend, March 2-4, 2018 includes both the 1st San Francisco Bootblack Contest, as well as the 36th Mr San Francisco Leather Contest. There will also be the SF Leather Community Awards, vendors, entertainment, education, and more.
 </p>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2018.judges.tabitha hideBio=true %}
-
-<div class="vspace1">
-
-{% include redesign/bio_card_horizantal.html judge=site.data.2018.judges.v hideBio=true %}
-
-<div class="vspace1">
-
-{% include redesign/bio_card_horizantal.html judge=site.data.2018.judges.gage hideBio=true %}
-
-<div class="vspace1">
+<div class="row">
+  <div class="col-4 text-center">
+    <img class="img-fluid" src="{{site.data.2018.judges.tabitha.photo}}"/>
+    <h3> {{site.data.2018.judges.tabitha.name}} </h3>
+  </div>
+  <div class="col-4 text-center">
+    <img class="img-fluid" src="{{site.data.2018.judges.v.photo}}"/>
+    <h3> {{site.data.2018.judges.v.name}} </h3>
+  </div>
+  <div class="col-4 text-center">
+    <img class="img-fluid" src="{{site.data.2018.judges.gage.photo}}"/>
+    <h3> {{site.data.2018.judges.gage.name}} </h3>
+  </div>
+</div>

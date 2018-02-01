@@ -4,7 +4,8 @@ include: ['_pages', '_pages/film', '_pages/writing', 'pages/photography']
 title:            San Francisco Bootblack
 email:            producer@sanfranciscobootblack.com
 url:              http://www.sanfranciscobootblack.com
-paginate:         1
+paginate:         5
+paginate_path:    archive/page:num/
 author:
   name:           San Francisco Bootblack Producers
   url:            http://www.sanfranciscobootblack.com
