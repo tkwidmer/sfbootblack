@@ -4,33 +4,14 @@ header-img: "images/sf1.jpg"
 ---
 
 <!-- {% include redesign/jumbotron.html %} -->
-
-<h1> 2018 Bootblack Contestants </h1>
-
-<div class="row">
-  <div class="col-4">
-    <img class="img-fluid" src="{{site.data.2018.contestants.camryn.photo}}"/>
-  </div>
-  <div class="col-4">
-    <img class="img-fluid" src="{{site.data.2018.contestants.kenzi.photo}}"/>
-  </div>
-  <div class="col-4">
-    <img class="img-fluid" src="{{site.data.2018.contestants.victoria.photo}}"/>
-  </div>
+<div class="alert alert-success" role="alert">
+  Tickets Are On Sale Now! <a class="alert-link" href="https://www.cognitoforms.com/SFBayAreaLeatherAlliance1/_2018SFBayAreaLeatherAllianceWeekend">
+    Buy your tickets now!
+  </a>
 </div>
 
-<!-- <img class="img-fluid" src="/images/2018/contestants.jpg"/> -->
-<p class="text-center vspace1">
-  <a href="/2018/contestants"> Click Here to Learn More About Our Contestants </a>
-</p>
-
-<div class='row'>
+<div class='row vspace2'>
   <div class="col-sm-8">
-    <div class="hidden-sm-up">
-      <a href="https://www.cognitoforms.com/SFBayAreaLeatherAlliance1/_2018SFBayAreaLeatherAllianceWeekend">
-        <img class="img-fluid" src="/images/buy_tickets.png" />
-      </a>
-    </div>
     <!-- {% assign firstPost = site.posts.first %}
     <h1 class="post-title">
       {{ firstPost.title }}
@@ -52,16 +33,36 @@ header-img: "images/sf1.jpg"
 
     <hr class="vspace2" class="fspace2" /> -->
 
-    <div>
+    <h1> 2018 Bootblack Contestants </h1>
+
+    <div class="row">
+      <div class="col-4">
+        <img class="img-fluid" src="{{site.data.2018.contestants.camryn.photo}}"/>
+      </div>
+      <div class="col-4">
+        <img class="img-fluid" src="{{site.data.2018.contestants.kenzi.photo}}"/>
+      </div>
+      <div class="col-4">
+        <img class="img-fluid" src="{{site.data.2018.contestants.victoria.photo}}"/>
+      </div>
+    </div>
+
+    <!-- <img class="img-fluid" src="/images/2018/contestants.jpg"/> -->
+    <p class="text-center vspace1">
+      <a href="/2018/contestants"> Click Here to Learn More About Our Contestants </a>
+    </p>
+
+    <div class="vspace2">
       {% include redesign/recent_posts.html offset=0 %}
     </div>
 
   </div>
 
   <div class="col-sm-4">
-    <a href="https://www.cognitoforms.com/SFBayAreaLeatherAlliance1/_2018SFBayAreaLeatherAllianceWeekend">
-      <img class="img-fluid" src="/images/buy_tickets.png" />
-    </a>
+    {% include redesign/sponsors.html %}
+
+    <div class="vspace2"></div>
+
     <h3>Tickets</h3>
     <div class="vspace1"></div>
 
