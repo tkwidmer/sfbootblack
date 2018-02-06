@@ -2,12 +2,16 @@
 layout: default
 ---
 
-<div class="container">
-  {% include redesign/navbar.html %}
+{% include redesign/navbar.html %}
+
+{% include redesign/jumbotron.html %}
+
+<div class="container-fluid">
 
   {{ content }}
 
-  {% include redesign/footer.html %}
 </div>
+
+{% include redesign/footer.html %}
 
 {% include clean_ga.html %}
