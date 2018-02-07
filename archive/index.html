@@ -4,30 +4,30 @@ title: Posts
 header-img: "images/sf1.jpg"
 ---
 
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <small> Posted by {{ post.author }} on {{ post.date | date_to_long_string }} </small>
+<div class="row">
+  <div class="col-md-9">
+    {% for post in paginator.posts %}
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <small> Posted by {{ post.author }} on {{ post.date | date_to_long_string }} </small>
 
-  <hr>
+      <hr>
 
-  <div class="content vspace1 fspace4">
-    {{ post.content }}
+      <div class="content vspace1 fspace4">
+        {{ post.content }}
+      </div>
+    {% endfor %}
   </div>
-{% endfor %}
+  <div class="col-md-3">
+    <h3> Pages </h3>
+    <p class="page_number fspace2">Page: {{ paginator.page }} of {{ paginator.total_pages }}</p>
+    {% include redesign/pagination.html %}
 
-<!-- Pagination links -->
-<div class="pagination">
-  <div class="btn-group" role="group" aria-label="Basic example">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="btn btn-primary">Previous</a>
-    {% endif %}
+    <div class="vspace2"> </div>
+    {% include redesign/posts_by_year.html %}
 
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="btn btn-primary">Next</a>
-    {% endif %}
+    <div class="vspace2"> </div>
+    {% include redesign/links.html %}
   </div>
 </div>
 
-<br>
-<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+<!-- This loops through the paginated posts -->

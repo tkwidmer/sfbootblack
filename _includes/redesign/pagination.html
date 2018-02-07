@@ -1,0 +1,11 @@
+<div class="pagination">
+  <div class="btn-group" role="group" aria-label="Basic example">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="btn btn-primary"><<</a>
+    {% endif %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="btn btn-primary">>></a>
+    {% endif %}
+  </div>
+</div>
