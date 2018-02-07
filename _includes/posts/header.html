@@ -3,4 +3,6 @@
 <h4 class="subheading">{{ page.subtitle }}</h4>
 {% endif %}
 
-<span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+<small class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</small>
+
+<hr>
