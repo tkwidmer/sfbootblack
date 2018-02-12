@@ -5,11 +5,11 @@ date:       2018-2-12 12:00:00
 author:     "SF Bootblack Producer"
 ---
 
+Tickets for the 2018 San Francisco Bay Area Leather Alliance Weekend, including the Mr. San Francisco Leather 2018 Contest, the San Francisco Bootblack 2018 Contest, and the San Francisco Leather Community Awards are now on sale here.
+
 <a href="https://www.cognitoforms.com/SFBayAreaLeatherAlliance1/_2018SFBayAreaLeatherAllianceWeekend">
   <img class="img-fluid mx-auto d-block vspace2" src="/images/reusable/buytickets.png" />
 </a>
-
-Tickets for the 2018 San Francisco Bay Area Leather Alliance Weekend, including the Mr. San Francisco Leather 2018 Contest, the San Francisco Bootblack 2018 Contest, and the San Francisco Leather Community Awards are now on sale here.
 
 We recommend the “Weekend Package” for **$119**.  This includes the Friday Formal Dinner and Awards (VIP seating, first to be served, close to the stage, 2 drink tickets), the Saturday night Mr. San Francisco Leather 2018 and San Francisco Bootblack 2018 Contests (VIP seating, 2 drink tickets), the Saturday night Victory Play Party, the Sunday Victory Beer Bust, the Weekend T-shirt, the Contest pin, and access to the Saturday workshops and vendor mart.
 
