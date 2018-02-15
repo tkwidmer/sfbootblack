@@ -16,4 +16,9 @@ header-img: "images/closeup.jpg"
     <img class="img-fluid" src="/images/sponsors/pindependant.jpg" />
     <img class="img-fluid vspace1" src="/images/sponsors/FSEventsLogo.jpg" />
   </div>
+
+  <div class="col-6">
+    <h1> Community </h1>
+    <img class="img-fluid" src="/images/sponsors/bootlab.jpg" />
+  </div>
 </div>
