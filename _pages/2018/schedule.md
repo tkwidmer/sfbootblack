@@ -2,7 +2,9 @@
 layout: new_page
 title: 2018 Contest Schedule
 permalink: '/2018/schedule/'
-header-img: "images/closeup.jpg"
+header-img: "images/2018/contestant_class.jpg"
+hide_title: true
+extra_classes: 'extra-large position-top'
 ---
 
 ### Thursday March 1st
