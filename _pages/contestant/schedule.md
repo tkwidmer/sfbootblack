@@ -4,36 +4,34 @@ title: 2018 Contestant Schedule
 permalink: '/2018/contestant/schedule/'
 ---
 
-### January 27th
+# Intro
 
-* Contestant Meeting (Closed)
+Contestants, Thank you for participating in the first SF Bootblack Contest ! We are excited to have you!! This is sure to be an exciting and challenging weekend for you. We are here to support you through this experience so please don’t hesitate to reach out.
 
-### February 17th
+The best way you can assure a positive weekend for yourself is to be prepared. To help you with that, there is a detailed schedule below.
 
-* Contestant Rehearsal (Closed)
-  * 12-2pm
+## Pre-Weekend
 
-### Thursday March 1st
+{% include detailed_schedule/contestant_meeting.html %}
 
-* 7pm Bootblack Bar Night (Potentially)
+## Thursday
 
-### Friday March 2nd
+{% include detailed_schedule/meet_and_greet.html %}
 
-* 6pm Tech Boot (Cocktail Hour)
-* 7-10pm Open Shine (Awards Formal Dinner)
-* 11pm Curfew
+## Friday
 
-### Saturday March 3rd
+{% include detailed_schedule/tech_boot.html %}
 
-* 9am Call Time for Contestants
-* 10am Contestant Interviews (Open)
-* 1pm Lunch (Provided)
-* 3pm Contest Rehearsal
-* 6pm Cocktail Social Hour
-* 7pm Places
-* 7:30pm Contest Starts
-* 10:30pm Victory Party
+## Saturday
 
-### Sunday March 4th
+{% include detailed_schedule/interview.html %}
 
-* 3pm Beer Bust
+{% include detailed_schedule/run_through.html %}
+
+{% include detailed_schedule/contest_night.html %}
+
+{% include detailed_schedule/victory_party.html %}
+
+## Sunday
+
+{% include detailed_schedule/beer_bust.html %}
