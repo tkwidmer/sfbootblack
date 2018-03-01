@@ -16,6 +16,8 @@ Guidelines:
 * The room will be emptied after each interview with a short break.
 * No entry once the interview has started will be allowed.
 * No audience participation.
+* Luch is only provided for contestants, judges, and staff.
+* All others will be asked to clear the room during Lunch. We suggest a quick trip to Wicked Grounds, which is just over a block away.
 
 <img class="img-fluid mx-auto d-block vspace2" src="/images/2018/interview_schedule.jpg" />
 
