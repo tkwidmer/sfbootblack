@@ -2,9 +2,7 @@
 layout: new_page
 title: About The Contest
 permalink: '/about/'
-header-img: "images/2018/contestant_class.jpg"
 hide_title: true
-extra_classes: 'extra-large position-top'
 ---
 
 <div class="row">

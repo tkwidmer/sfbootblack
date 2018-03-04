@@ -1,10 +1,45 @@
 ---
 layout: new
-header-img: "images/2018/contestant_class.jpg"
 hide_title: true
-extra_classes: 'extra-large position-top'
+hideJumbotron: true
 ---
 
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="hidden-sm-up">
+      <h3 class="text-center"> San Francisco Bootblack 2018 Victoria! </h3>
+    </div>
+    <img class="img-fluid" src="{{site.data.2018.contestants.victoria.photo}}"/>
+  </div>
+
+  <div class="col-sm-6 col-md-8">
+    <div class="hidden-sm-up">
+      <div class="vspace2"> </div>
+    </div>
+    {% assign firstPost = site.posts.first %}
+    <h1 class="post-title">
+      {{ firstPost.title }}
+    </h1>
+
+    {% if firstPost.subtitle %}
+    <h5 class="post-subtitle">
+        {{ firstPost.subtitle }}
+    </h5>
+    {% endif %}
+
+    <small class="post-meta vspace1">
+      Posted by {% if firstPost.author %}{{ firstPost.author }}{% else %}{{ site.title }}{% endif %} on {{ firstPost.date | date: "%B %-d, %Y" }}
+    </small>
+
+    <div class="vspace2">
+      {{ firstPost.content }}
+    </div>
+
+    <!-- <img width=200 class="img-fluid mx-auto d-block vspace1" src="/images/logos/logo_2018_red.png" /> -->
+  </div>
+</div>
+
+<hr />
 <div class='row vspace2'>
   <div class='col-sm-8'>
 
@@ -29,9 +64,9 @@ extra_classes: 'extra-large position-top'
 
     <hr class="vspace2" class="fspace2" /> -->
 
-    <h1> 2018 Bootblack Contestants </h1>
+    <!-- <h1> 2018 Bootblack Contestants </h1> -->
 
-    <div class="row">
+    <!-- <div class="row">
       <div class="col-4">
         <img class="img-fluid" src="{{site.data.2018.contestants.camryn.photo}}"/>
       </div>
@@ -41,20 +76,20 @@ extra_classes: 'extra-large position-top'
       <div class="col-4">
         <img class="img-fluid" src="{{site.data.2018.contestants.victoria.photo}}"/>
       </div>
-    </div>
+    </div> -->
 
     <!-- <img class="img-fluid" src="/images/2018/contestants.jpg"/> -->
-    <p class="text-center vspace1">
+    <!-- <p class="text-center vspace1">
       <a href="/2018/contestants"> Click Here to Learn More About Our Contestants </a>
     </p>
 
     <a href="https://www.cognitoforms.com/SFBayAreaLeatherAlliance1/_2018SFBayAreaLeatherAllianceWeekend">
       <img class="img-fluid mx-auto d-block vspace2" src="/images/reusable/buytickets.png" />
-    </a>
+    </a> -->
 
 
-    <div class="vspace2">
-      {% include redesign/recent_posts.html offset=0 %}
+    <div class="">
+      {% include redesign/recent_posts.html offset=1 %}
     </div>
 
   </div>
@@ -64,7 +99,7 @@ extra_classes: 'extra-large position-top'
 
     <div class="vspace2"></div>
 
-    <h3>Tickets</h3>
+    <!-- <h3>Tickets</h3>
     <div class="vspace1"></div>
 
     <a href="https://www.cognitoforms.com/SFBayAreaLeatherAlliance1/_2018SFBayAreaLeatherAllianceWeekend" class="btn btn-lg btn-primary">
@@ -80,7 +115,7 @@ extra_classes: 'extra-large position-top'
         Contact Us!
     </a>
 
-    <div class="vspace2"></div>
+    <div class="vspace2"></div> -->
 
     {% include redesign/links.html offset=1 %}
 
