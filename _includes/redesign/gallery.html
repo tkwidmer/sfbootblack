@@ -1,0 +1,18 @@
+<h1 class="text-center">{{page.title}}</h1>
+
+<div class="clearfix mt-5">
+
+</div>
+
+<div id="nanogallery2" data-nanogallery2='{{ site.data.gallery_config | jsonify }}'>
+
+{% for gallery in site.data.photos %}
+  {% if gallery.id == page.gallery %}
+
+      {% for image in gallery.images %}
+        <a href="{{image}}" data-ngthumb="{{image}}"></a>
+      {% endfor %}
+  {% endif %}
+{% endfor %}
+
+</div>

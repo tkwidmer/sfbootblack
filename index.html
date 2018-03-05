@@ -5,42 +5,15 @@ hideJumbotron: true
 ---
 
 <div class="row">
-  <div class="col-sm-6 col-md-4">
-    <div class="hidden-sm-up">
-      <h3 class="text-center"> San Francisco Bootblack 2018 Victoria! </h3>
-    </div>
-    <img class="img-fluid" src="{{site.data.2018.contestants.victoria.photo}}"/>
-  </div>
+  <div class="col-12">
+    <h1 class="text-center"> San Francisco Bootblack 2018 is Victoria! </h1>
+    <img class="img-fluid vspace1" src="/images/2018/event/SFLeatherSneakPeek-9_batch.jpg"/>
 
-  <div class="col-sm-6 col-md-8">
-    <div class="hidden-sm-up">
-      <div class="vspace2"> </div>
-    </div>
-    {% assign firstPost = site.posts.first %}
-    <h1 class="post-title">
-      {{ firstPost.title }}
-    </h1>
-
-    {% if firstPost.subtitle %}
-    <h5 class="post-subtitle">
-        {{ firstPost.subtitle }}
-    </h5>
-    {% endif %}
-
-    <small class="post-meta vspace1">
-      Posted by {% if firstPost.author %}{{ firstPost.author }}{% else %}{{ site.title }}{% endif %} on {{ firstPost.date | date: "%B %-d, %Y" }}
-    </small>
-
-    <div class="vspace2">
-      {{ firstPost.content }}
-    </div>
-
-    <!-- <img width=200 class="img-fluid mx-auto d-block vspace1" src="/images/logos/logo_2018_red.png" /> -->
+    <p class="text-center m-t-5"> <a href="/photos/2018"> See Photos From The Event </a> </p>
   </div>
 </div>
 
-<hr />
-<div class='row vspace2'>
+<div class='row mt-5'>
   <div class='col-sm-8'>
 
     <!-- {% assign firstPost = site.posts.first %}

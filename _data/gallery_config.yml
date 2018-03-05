@@ -1,0 +1,8 @@
+thumbnailLabel:
+  position : "onBottom"
+thumbnailHeight: "auto"
+thumbnailWidth:  400
+thumbnailBorderHorizontal: 0
+thumbnailBorderVertical: 0
+
+# https://nanogallery2.nanostudio.org/documentation.html
