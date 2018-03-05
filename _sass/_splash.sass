@@ -8,6 +8,23 @@
   border-radius: 0
   position: relative
 
+  &.large
+    min-height: 500px
+    @include media-breakpoint-only(xs)
+      min-height: 200px
+
+    @include media-breakpoint-only(sm)
+      min-height: 350px
+
+    @include media-breakpoint-only(md)
+      min-height: 350px
+
+    @include media-breakpoint-only(lg)
+      min-height: 400px
+
+    @include media-breakpoint-only(xl)
+      min-height: 450px
+
   &.extra-large
     min-height: 500px
     @include media-breakpoint-only(xs)
