@@ -3,6 +3,23 @@
 <h4 class="subheading">{{ page.subtitle }}</h4>
 {% endif %}
 
+{{post}}
+
 <small class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</small>
+
+<br>
+
+
+{% if page.categories %}
+<small>
+  Categories:
+  {% for category in page.categories %}
+    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">
+      {{category}}
+    </a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</small>
+{% endif %}
 
 <hr>
