@@ -1,6 +1,6 @@
 ---
 layout:     new_post
-title:      "On Classism and the Leather Title System"
+title:      "Titleholder Blog: Leather's Classism Conundrum"
 date:       2018-7-17 12:00:00
 author:     "Victoria, SFBB 2018"
 categories:   [TitleholderBlog, SFBB2018]
