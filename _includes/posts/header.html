@@ -22,4 +22,23 @@
 </small>
 {% endif %}
 
+<nav class="vspace2">
+  <ul class="pagination pagination-sm">
+    {% if page.previous.url %}
+    <li class="page-item">
+        <a class="page-link" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+    </li>
+    {% endif %}
+    {% if page.next.url %}
+    <li class="page-item">
+        <a class="page-link" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+    </li>
+    {% endif %}
+  </ul>
+</nav>
+
+<small>
+  <a href="/archive"> view all posts </a>
+</small>
+
 <hr>

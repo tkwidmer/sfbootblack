@@ -24,6 +24,8 @@ and when i look forward and think about what’s next for me, and consider that 
 
 the fuck would i wear? what do i already have that can be augmented will smaller leather pieces that are maybe accessible to me? can my substance, skills, and personality once again shine bright enough to make up for the fact that i will likely never be able to afford head-to-toe formals? (and honestly, even if i did have the money for them, i’d more than likely still spend it on something else like getting out of debt or just give it to my parents who have supported me through this new poverty adventure.) not to mention all the new questions/worries that would come up if i won!
 
+> a person’s wealth is not an indicator of the content of their heart, their sense of integrity, the drive they have to create a world where we can all flourish, or their ability to speak passionately about this community that binds us; and those are the things that i believe a title holder should have.
+
 and then there’s the guilt. well maybe if the title system is so difficult for me to participate in, i just shouldn’t do it right? or at least wait until things are more comfortable? (HA)
 
 but... fuck that noise right?
@@ -33,6 +35,9 @@ a person’s wealth is not an indicator of the content of their heart, their sen
 so why do we tie these substantive traits to someone’s possession of the resources to present themselves in “the right way” and show up & out at all the things?
 
 some of us are poor. some of us didn’t grow up in a setting where we could establish relationships with mentor-types who might gift us leathers or allow us to earn them. some of us have families who we are committed to (be those commitments financial, emotional, or investments of time) regardless of their level of acceptance/understanding of our “lifestyle.” some of us have careers that we are dedicated to (idealistically, financially, both or neither) that we cannot/will not put on hold simply because there is other work we want to do too.
+
+
+> Run for a title however works for you.
 
 if so many of us occupy one or more of these boats, but ALSO still have what it takes to represent our community, maybe we should be thinking about how to bridge this gap? (hint: we should)
 
