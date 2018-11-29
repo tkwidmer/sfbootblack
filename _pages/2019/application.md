@@ -7,10 +7,7 @@ header-img: "images/closeup.jpg"
 
 ## Application Deadline
 
-The application date has passed
-
-
-January 20th, 2018
+The application deadline is January 20th, 2019
 
 ## Prerequisites
 
@@ -22,15 +19,18 @@ January 20th, 2018
   community with references.
 * Be willing to fulfill the requirements set forth if you win the title.
 * Attend all dates required for the contest.
-* Read the <a href="/2018/contest">contest requirements</a>.
+* Read the <a href="/2018/contest">contest structure</a>.
 
-## Required Dates Leading Up to Contest
+## Required Dates
 
-* January 27th (Contestant Meeting & Photoshoot)
-* February 17. 12-2pm (Rehearsal)
-* March 3th (Formal Dinner)
-* March 4th (Main Contest)
-* March 5th (Beer Bust)
+* January 26th (Contestant Meeting & Photoshoot) - TIME TBA
+* February 16. 12-2pm (Rehearsal) - TIME TBA
+* February 28. 7pm-10pm (Meet and Greet)
+* March 1st (3pm-10pm) Formal Dinner, Tech Boot & Open Stand Time
+* March 2nd (10am-12am) Main Contest
+* March 3rd (3-6pm) Beer Bust
+* March 17th (Time TBA) Post Contest Brunch
+* April 7th (Time TBA) Volunteer Appreciation Party (Optional)
 
 ## Winner Package
 
@@ -49,7 +49,7 @@ January 20th, 2018
 * Outreach to potential contestants for San Francisco Bootblack 2019.
 * Strongly encouraged but not required to attend a regional or international
   bootblack competition.
-* Attend Stepdown
+* Attend Stepdown the following year
 
 ## Application
 
@@ -67,8 +67,11 @@ If you have any questions, please <a href="/contact"> contact us</a>.
 
 There is a 50$ fee for your application to be accepted. Application Fee is payable via <a href="http://leatheralliance.org/paypal/"> this link</a>. In the Section marked "Special Instructions to this seller", please make the note: "SFBB Application Fee." Please submit your fee within 24 hours of submitting your application, or you risk your application being rejected.
 
-<!--
 ## Ready to Apply?
+
+Application Coming Soon!
+
+<!--
 
 <a class="vspace2 btn btn-lg btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSeHvF8hAbT61Wm9L7piRXWnbrXWuSrDWabeV-1-PnXj9x1ePQ/viewform" > Application Form </a>
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeHvF8hAbT61Wm9L7piRXWnbrXWuSrDWabeV-1-PnXj9x1ePQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> -->
