@@ -2,11 +2,140 @@
 layout: new
 hide_title: true
 extra_classes: 'large'
+hideJumbotron: true
 ---
-<p class="text-center mt-2"> <a href="/photos/2018"> See Photos From The Event </a> </p>
+<div class="row">
+  <div class='col-md-5'>
+    <div class="jumbotron jumbotron-fluid bg-white">
+      <div class="container">
+        <h2 class="display-4 mt-5">San Francisco Bootblack</h2>
+        <h4> March 1-3 2019, San Francisco</h2>
+        <p class="lead mt-3">
+          Part of the 2019 Leather Alliance Weekend in San Francisco CA.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class='col-md-7'>
+    <img class="img-fluid" src="/images/2018/event/SFLeatherSneakPeek-9_batch.jpg">
+  </div>
+</div>
 
-<div class='row mt-5'>
+<div class="mt-5"></div>
+
+<hr>
+
+<div class="mt-5"></div>
+
+<div class="row">
+  <div class='col-md-3'>
+    <img class="img-fluid" src="/images/titleholders/victoria.jpg">
+  </div>
+  <div class='col-md-9'>
+    <div class="jumbotron jumbotron-fluid bg-white">
+      <div class="container">
+        <h2 class="mt-3">San Francisco Bootblack 2018</h2>
+        <h2 class="display-3 mt-3">Victoria</h2>
+        <p>
+          Victoria will step down on the very stage she took the first San Francisco Bootblack title this March.
+          <a class="mt-5" href="/titleholders/">
+            Get to know Victoria.
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="mt-5"></div>
+
+<hr>
+
+<div class="mt-5"></div>
+
+<div class="row">
+  <div class='col-md-5'>
+    <div class="jumbotron jumbotron-fluid bg-white">
+      <div class="container">
+        <h4 class="mt-5">Do you want to be the San Francisco Bootblack?</h4>
+        <p class="lead mt-3">
+          Applications are coming soon! Watch this space!
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class='col-md-7'>
+    <img class="img-fluid" src="/images/2018/event/SFLeatherAllianceWeekend-54.jpg">
+  </div>
+</div>
+
+<div class="mt-5"></div>
+
+<hr>
+
+<div class="mt-5"></div>
+
+<div class="row">
+  <div class="col-12">
+    <h2 class="text-center display-4">2019 Judges</h2>
+    <p class="text-center">
+      <a href="/2019/judges"> Click here to read more about our judges. </a>
+    </p>
+  </div>
+  <div class='col-md-4'>
+    <img class="img-fluid" src="/images/2019/ryan.jpg">
+    <h4 class="text-center">Pawlish</h4>
+    <p class="text-center">International Mr Bootblack 2017</p>
+
+  </div>
+  <div class='col-md-4'>
+    <img class="img-fluid" src="/images/avatar-placeholder.png">
+    <p class="text-center">To Be Announced</p>
+  </div>
+  <div class='col-md-4'>
+    <img class="img-fluid" src="/images/avatar-placeholder.png">
+    <p class="text-center">To Be Announced</p>
+  </div>
+</div>
+
+<div class="mt-5"></div>
+
+<hr>
+
+<div class="mt-5"></div>
+
+<div class="row">
+  <div class="col-md-6">
+    <h2 class="text-center display-4">Posts</h2>
+    <p class="text-center">
+      <a href="/archive"> Click here to read all of the previous posts. </a>
+    </p>
+  </div>
+  <div class="col-md-6">
+    {% include redesign/recent_posts_links.html offset=0 %}
+  </div>
+</div>
+
+<div class="mt-5"></div>
+
+<hr>
+
+<div class="mt-5"></div>
+
+<div class="row">
+  <div class="col-6">
+    <img class='img-fluid' src="/images/sponsors/mr_s_leather_lg.jpg" height="200"/>
+  </div>
+  <div class="col-6">
+    <h2 class="text-center display-4">Sponsors</h2>
+  </div>
+</div>
+
+
+<!-- <div class='row mt-5'>
   <div class='col-sm-8'>
+
+    <p class="text-center mt-2"> <a href="/photos/2018"> See Photos From The Event </a> </p>
 
     {% assign firstPost = site.posts.first %}
     <h1 class="post-title">
@@ -52,21 +181,15 @@ extra_classes: 'large'
       <img class="img-fluid mx-auto d-block vspace2" src="/images/reusable/buytickets.png" />
     </a> -->
 
-    <div class="">
+    <!-- <hr /> -->
+
+    <!-- <div class="vspace2">
       {% include redesign/recent_posts.html offset=1 %}
     </div>
 
-  </div>
+  </div> -->
 
-  <div class="col-sm-4">
-    <img class="img-fluid vspace1" src="/images/2018/victoria_titleholder.jpg"/>
-
-    <h5 class="text-center vspace1"> Victoria </h5>
-
-    <!-- {% include redesign/sponsors.html %} -->
-
-    <div class="vspace2"></div>
-
+  <!-- <div class="col-sm-4"> -->
     <!-- <h3>Tickets</h3>
     <div class="vspace1"></div>
 
@@ -79,15 +202,28 @@ extra_classes: 'large'
     <h3>Want to get involved?</h3>
     <div class="vspace1"></div>
 
-    <a href="/contact" class="btn btn-lg btn-success">
-        Contact Us!
-    </a>
-
     <div class="vspace2"></div> -->
+
+    <!-- <h3> SFBB 2018, Victoria </h3>
+    <img class="img-fluid" src="/images/titleholders/victoria.jpg" />
+
+    <div class="vspace2"></div>
 
     {% include redesign/links.html offset=1 %}
 
     <div class="vspace2"></div>
 
+    <h3>Want to get involved?</h3>
+    <div class="vspace1"></div>
+
+    <a href="/contact" class="btn btn-lg btn-success">
+        Contact Us!
+    </a>
+    <div class="vspace2"></div>
+
+    {% include redesign/sponsors.html %}
+
   </div>
-</div>
+
+
+</div> -->

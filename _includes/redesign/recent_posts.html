@@ -5,7 +5,10 @@
     <h3 class="no-margin">
       {{ post.title }}
     </h3>
-  </a> {{ post.date | date_to_long_string }}
+  </a>
+  {{ post.author }}
+  <br />
+  {{ post.date | date_to_long_string }}
 
   <div class="vspace1"> </div>
 

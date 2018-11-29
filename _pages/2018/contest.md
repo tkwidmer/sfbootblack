@@ -3,7 +3,6 @@ layout: new_page
 title: 2018 Contest
 permalink: '/2018/contest/'
 hide_title: true
-extra_classes: 'extra-large position-top'
 ---
 
 # Contest Components
