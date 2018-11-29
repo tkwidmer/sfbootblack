@@ -1,6 +1,6 @@
 ---
 layout:     new_post
-title:      "San Francisco Bootblack 2018 Victoria!"
+title:      "San Francisco Bootblack 2018: Victoria!"
 date:       2018-3-4 12:00:00
 author:     "Contest Producers"
 ---

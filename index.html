@@ -3,11 +3,12 @@ layout: new
 hide_title: true
 extra_classes: 'large'
 ---
+<p class="text-center mt-2"> <a href="/photos/2018"> See Photos From The Event </a> </p>
 
 <div class='row mt-5'>
   <div class='col-sm-8'>
 
-    <!-- {% assign firstPost = site.posts.first %}
+    {% assign firstPost = site.posts.first %}
     <h1 class="post-title">
       {{ firstPost.title }}
     </h1>
@@ -26,7 +27,7 @@ extra_classes: 'large'
       {{ firstPost.content }}
     </div>
 
-    <hr class="vspace2" class="fspace2" /> -->
+    <hr class="vspace2" class="fspace2" />
 
     <!-- <h1> 2018 Bootblack Contestants </h1> -->
 
@@ -51,20 +52,18 @@ extra_classes: 'large'
       <img class="img-fluid mx-auto d-block vspace2" src="/images/reusable/buytickets.png" />
     </a> -->
 
-    <img class="img-fluid vspace1" src="/images/2018/event/SFLeatherSneakPeek-9_batch.jpg"/>
-    <h1 class="text-center mt-2"> San Francisco Bootblack 2018: Victoria! </h1>
-
-    <p class="text-center mt-2"> <a href="/photos/2018"> See Photos From The Event </a> </p>
-
-    <hr />
     <div class="">
-      {% include redesign/recent_posts.html offset=0 %}
+      {% include redesign/recent_posts.html offset=1 %}
     </div>
 
   </div>
 
   <div class="col-sm-4">
-    {% include redesign/sponsors.html %}
+    <img class="img-fluid vspace1" src="/images/2018/victoria_titleholder.jpg"/>
+
+    <h5 class="text-center vspace1"> Victoria </h5>
+
+    <!-- {% include redesign/sponsors.html %} -->
 
     <div class="vspace2"></div>
 
