@@ -11,10 +11,10 @@ hide_title: true
 
 {% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.ryan %}
 
-<!-- <div class="vspace3"> </div>
+<div class="vspace3"> </div>
 
 {% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.lucky %}
 
 <div class="vspace3"> </div>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.marlene %} -->
+{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.marlene %}
