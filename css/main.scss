@@ -5,15 +5,15 @@
 
 @charset "utf-8";
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
-@import 'bs/bootstrap';
+// @import 'bs/bootstrap';
 
 // Our variables
 
 // Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
+// $content-width:    800px;
+//
+// $on-palm:          600px;
+// $on-laptop:        800px;
 
 
 // Using media queries with like this:
@@ -23,33 +23,33 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
-
-html {
-  font-size: 14px;
-}
-
-@include media-breakpoint-up(sm) {
-  html {
-    font-size: 16px;
-  }
-}
-
-@include media-breakpoint-up(md) {
-  html {
-    font-size: 20px;
-  }
-}
-
-@include media-breakpoint-up(lg) {
-  html {
-    font-size: 28px;
-  }
-}
+// @mixin media-query($device) {
+//     @media screen and (max-width: $device) {
+//         @content;
+//     }
+// }
+//
+// html {
+//   font-size: 14px;
+// }
+//
+// @include media-breakpoint-up(sm) {
+//   html {
+//     font-size: 16px;
+//   }
+// }
+//
+// @include media-breakpoint-up(md) {
+//   html {
+//     font-size: 20px;
+//   }
+// }
+//
+// @include media-breakpoint-up(lg) {
+//   html {
+//     font-size: 28px;
+//   }
+// }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
