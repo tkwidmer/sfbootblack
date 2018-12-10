@@ -17,6 +17,7 @@ The application deadline is January 20th, 2019
 * Be sponsored by a San Francisco leather, kink, fetish or gear business, club
   or organization <br> or be an independent, reputable leather person from the
   community with references.
+* Have a headshot in Square Format 1x1 Ratio.
 * Be willing to fulfill the requirements set forth if you win the title.
 * Attend all dates required for the contest.
 * Read the <a href="/2018/contest">contest structure</a>.
