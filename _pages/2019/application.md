@@ -57,7 +57,7 @@ It is recommended that you copy the questions into a word document, and fill
 them out. When you are ready to apply, <br> you can copy and paste your answers
 into the form to submit your application.
 
-Please download the <a href="/doc/SFBB_2018_Agreements.pdf">agreements PDF</a>
+Please download the <a href="/doc/2019_Agreements.pdf">agreements PDF</a>
 and sign and date all pages, before re-uploading as part of the contestant
 application.
 
