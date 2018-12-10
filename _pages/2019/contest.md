@@ -7,8 +7,8 @@ hide_title: true
 
 # Contest Components
 
-For the full weekend schedule please visit the <a href="/2018/schedule"> schedule
-page</a>.
+<!-- For the full weekend schedule please visit the <a href="/2018/schedule"> schedule
+page</a>. -->
 
 ### Speech and Formal Wear (100 Points)
 
