@@ -9,11 +9,11 @@ hide_title: true
 
 <div class="mt-5"> </div>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.ryan %}
+{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.lucky %}
 
 <div class="mt-5"> </div>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.lucky %}
+{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.ryan %}
 
 <div class="mt-5"> </div>
 

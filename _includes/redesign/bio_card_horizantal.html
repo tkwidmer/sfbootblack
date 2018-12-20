@@ -11,6 +11,10 @@
     <h6> {{ include.judge.title }} </h6>
     <h6> {{ include.judge.title2 }} </h6>
 
+    {% if include.judge.head_judge %}
+      <h6> Head Judge </h6>
+    {% endif %}
+    
     {% unless include.hideBio %}
       <p class="vspace1"> {{ include.judge.bio | markdownify }}</p>
     {% endunless %}
