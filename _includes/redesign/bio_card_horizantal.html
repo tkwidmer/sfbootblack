@@ -9,8 +9,13 @@
     <h1 class="">{{ include.judge.name }}</h1>
     <h6> {{ include.judge.title }} </h6>
     <h6> {{ include.judge.title2 }} </h6>
+
     {% if include.judge.head_judge %}
       <h6> Head Judge </h6>
+    {% endif %}
+
+    {% if include.judge.community_judge %}
+      <h6> Community Judge </h6>
     {% endif %}
 
     {% unless include.hideBio %}
@@ -40,7 +45,11 @@
     {% if include.judge.head_judge %}
       <h6> Head Judge </h6>
     {% endif %}
-    
+
+    {% if include.judge.community_judge %}
+      <h6> Community Judge </h6>
+    {% endif %}
+
     {% unless include.hideBio %}
       <p class="vspace1"> {{ include.judge.bio | markdownify }}</p>
     {% endunless %}
