@@ -1,7 +1,10 @@
 {% if include.photoRight %}
 
 <div class='row'>
-  <div class="col-sm-8">
+  <div class="col-sm-2">
+    <img class="rounded" src="{{include.judge.photo}}" width="100%" alt="photo" />
+  </div>
+  <div class="col-sm-10">
     <div class="d-block d-sm-none">
       <div class="vspace1"></div>
     </div>
@@ -9,26 +12,17 @@
     <h1 class="">{{ include.judge.name }}</h1>
     <h6> {{ include.judge.title }} </h6>
     <h6> {{ include.judge.title2 }} </h6>
-    {% if include.judge.head_judge %}
-      <h6> Head Judge </h6>
-    {% endif %}
 
     {% unless include.hideBio %}
       <p class="vspace1"> {{ include.judge.bio | markdownify }}</p>
     {% endunless %}
-  </div>
-  <div class="col-sm-4">
-    <img class="rounded" src="{{include.judge.photo}}" width="100%" alt="photo" />
   </div>
 </div>
 
 {% else %}
 
 <div class='row'>
-  <div class="col-sm-4">
-    <img class="rounded" src="{{include.judge.photo}}" width="100%" alt="photo" />
-  </div>
-  <div class="col-sm-8">
+  <div class="col-sm-10">
     <div class="d-block d-sm-none">
       <div class="vspace1"></div>
     </div>
@@ -37,13 +31,12 @@
     <h6> {{ include.judge.title }} </h6>
     <h6> {{ include.judge.title2 }} </h6>
 
-    {% if include.judge.head_judge %}
-      <h6> Head Judge </h6>
-    {% endif %}
-    
     {% unless include.hideBio %}
       <p class="vspace1"> {{ include.judge.bio | markdownify }}</p>
     {% endunless %}
+  </div>
+  <div class="col-sm-2">
+    <img class="rounded" src="{{include.judge.photo}}" width="100%" alt="photo" />
   </div>
 </div>
 
