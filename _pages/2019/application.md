@@ -70,9 +70,8 @@ There is a 50$ fee for your application to be accepted. Application Fee is payab
 
 ## Ready to Apply?
 
-Application Coming Soon!
+We recommend you copy paste the questions into a separate document so you do not risk losing any content due to internet issues.
 
-<!--
+<!-- <a class="vspace2 btn btn-lg btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLScoAbvZ-w_B8GYJGDgYhGRC-g_DJuAg9U4uKfvIb3kI1-Pu3w/viewform" > Application Form </a> -->
 
-<a class="vspace2 btn btn-lg btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSeHvF8hAbT61Wm9L7piRXWnbrXWuSrDWabeV-1-PnXj9x1ePQ/viewform" > Application Form </a>
-<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeHvF8hAbT61Wm9L7piRXWnbrXWuSrDWabeV-1-PnXj9x1ePQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScoAbvZ-w_B8GYJGDgYhGRC-g_DJuAg9U4uKfvIb3kI1-Pu3w/viewform" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
