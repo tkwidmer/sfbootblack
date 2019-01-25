@@ -13,7 +13,3 @@ hide_title: true
 <div class="vspace2">
 
 {% include redesign/bio_card_horizantal.html judge=site.data.staff.teagan %}
-
-<!-- <div class="vspace2">
-
-{% include redesign/bio_card_horizantal_small.html photoRight=true judge=site.data.titleholders.victoria %} -->
