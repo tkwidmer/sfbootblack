@@ -5,11 +5,20 @@ permalink: '/staff/'
 hide_title: true
 ---
 
-<!-- extra_classes: 'extra-large position-top' -->
-
-
 ## San Francisco Bootblack Staff
 
-<div class="vspace2">
+<div class="mt-2" />
 
 {% include redesign/bio_card_horizantal.html judge=site.data.staff.teagan %}
+
+<!-- <div class="mt-2" />
+
+{% include redesign/bio_card_horizantal.html judge=site.data.staff.angel %} -->
+
+<div class="mt-2" />
+
+{% include redesign/bio_card_horizantal.html judge=site.data.staff.spencer %}
+
+<div class="mt-2" />
+
+{% include redesign/bio_card_horizantal.html judge=site.data.staff.ub %}

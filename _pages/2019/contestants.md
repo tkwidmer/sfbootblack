@@ -5,12 +5,10 @@ permalink: '/2019/contestants/'
 hide_title: true
 ---
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2018.contestants.camryn %}
+# 2019 SF Bootblack Contestants
 
-<div class="vspace1" />
+<div class="mt-5" />
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2018.contestants.kenzi %}
+{% include redesign/bio_card_horizantal.html judge=site.data.2019.contestants.allison %}
 
-<div class="vspace1" />
-
-{% include redesign/bio_card_horizantal.html judge=site.data.2018.contestants.victoria %}
+<div class="mt-2" />

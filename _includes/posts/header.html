@@ -1,14 +1,11 @@
-<h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+<h2>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h2>
 {% if page.subtitle %}
 <h4 class="subheading">{{ page.subtitle }}</h4>
 {% endif %}
 
-{{post}}
-
 <small class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</small>
 
 <br>
-
 
 {% if page.categories %}
 <small>
@@ -22,7 +19,7 @@
 </small>
 {% endif %}
 
-<nav class="vspace2">
+<!-- <nav class="vspace2">
   <ul class="pagination pagination-sm">
     {% if page.previous.url %}
     <li class="page-item">
@@ -35,10 +32,6 @@
     </li>
     {% endif %}
   </ul>
-</nav>
-
-<small>
-  <a href="/archive"> view all posts </a>
-</small>
+</nav> -->
 
 <hr>

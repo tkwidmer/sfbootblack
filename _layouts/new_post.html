@@ -8,18 +8,32 @@ hide_title: true
   <div class="vspace4"></div>
 
   <div class="row">
-    <div class="col-12">
+    <div class="col-7 offset-1">
       {% include posts/header.html %}
-      <div class="vspace2"></div>
+      <div class="mt-2"></div>
 
 		  {{ content }}
 
+      {% if page.image_path %}
+        <div class="row">
+          <div class="col-10 offset-1">
+            <img class='img-fluid' src="{{page.image_path}}" />
+            <div class="mt-5"> </div>
+          </div>
+        </div>
+      {% endif %}
+
     </div>
-    <div class="col-lg-6">
-      {% include redesign/recent_posts_links.html %}
-    </div>
-    <div class="col-lg-4">
-      {% include redesign/links.html %}
+    <div class="col-3">
+      <small>
+        <a href="/archive"> view all posts </a>
+      </small>
+      <div class="mt-2"></div>
+      <small>
+        {% include redesign/recent_posts_links.html %}
+        <div class="mt-2"></div>
+        {% include redesign/links.html %}
+      </small>
     </div>
   </div>
 </article>
