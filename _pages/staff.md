@@ -11,9 +11,9 @@ hide_title: true
 
 {% include redesign/bio_card_horizantal.html judge=site.data.staff.teagan %}
 
-<!-- <div class="mt-2" />
+<div class="mt-2" />
 
-{% include redesign/bio_card_horizantal.html judge=site.data.staff.angel %} -->
+{% include redesign/bio_card_horizantal.html judge=site.data.staff.angel %}
 
 <div class="mt-2" />
 
@@ -21,4 +21,20 @@ hide_title: true
 
 <div class="mt-2" />
 
+{% include redesign/bio_card_horizantal.html judge=site.data.staff.jesus %}
+
+<div class="mt-2" />
+
 {% include redesign/bio_card_horizantal.html judge=site.data.staff.ub %}
+
+<div class="mt-2" />
+
+{% include redesign/bio_card_horizantal.html judge=site.data.staff.lynn %}
+
+<div class="mt-2" />
+
+{% include redesign/bio_card_horizantal.html judge=site.data.staff.kenneth %}
+
+<div class="mt-2" />
+
+{% include redesign/bio_card_horizantal.html judge=site.data.staff.alex %}
