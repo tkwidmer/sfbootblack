@@ -2,7 +2,6 @@
 layout: new_page
 title: Volunteer
 permalink: '/volunteers/'
-header-img: "images/closeup.jpg"
 ---
 
 ### We couldn't do it without you...

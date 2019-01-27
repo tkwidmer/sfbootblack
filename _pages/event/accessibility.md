@@ -5,8 +5,6 @@ permalink: '/event/accessibility/'
 hide_title: true
 ---
 
-<!-- extra_classes: 'extra-large position-top' -->
-
 ### Accessible Event
 
 It’s important to the Leather Alliance that the weekend be as accessible as possible in many ways.

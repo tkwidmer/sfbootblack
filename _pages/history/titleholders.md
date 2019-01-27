@@ -5,9 +5,6 @@ permalink: '/titleholders/'
 hide_title: true
 ---
 
-<!-- extra_classes: 'extra-large position-top' -->
-
-
 ## San Francisco Bootblack Titleholders
 
 <div class="vspace2">

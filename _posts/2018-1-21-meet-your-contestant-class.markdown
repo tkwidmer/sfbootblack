@@ -5,7 +5,6 @@ subtitle: |
   Applications are closed, and contestants have been selected! We have an amazing first class for San Francisco Bootblack!
 date:       2018-1-21 12:00:00
 author:     "SF Bootblack Producer"
-header-img: "images/sf1.jpg"
 ---
 
 <p>

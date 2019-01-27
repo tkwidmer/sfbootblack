@@ -2,7 +2,6 @@
 layout: new_page
 title: Welcome!
 permalink: '/contestant/'
-header-img: "images/closeup.jpg"
 ---
 
 <div class="row">

@@ -4,7 +4,6 @@ title:      "2018 Judges Announced!"
 subtitle:   "Come meet the 2018 Judges."
 date:       2017-10-26 12:00:00
 author:     "Producers"
-header-img: "images/sf1.jpg"
 ---
 
 <p>

@@ -2,7 +2,6 @@
 layout: new_page
 title: Contact
 permalink: '/contact/success'
-header-img: "images/closeup.jpg"
 ---
 
 ## Contact Us

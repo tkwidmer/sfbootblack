@@ -3,7 +3,6 @@ layout:     new_post
 title:      "Meet Your 2018 Contestants At Bay Area Bootlab"
 date:       2018-2-7 12:00:00
 author:     "SF Bootblack Producer"
-header-img: "images/boot_lab.jpg"
 ---
 
 With only 4 weeks to go until the first San Francisco Bootblack titleholder

@@ -2,7 +2,6 @@
 layout: new_page
 title: Application
 permalink: '/2019/app/'
-header-img: "images/closeup.jpg"
 ---
 
 ## Application Deadline

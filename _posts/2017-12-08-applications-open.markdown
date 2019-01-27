@@ -5,7 +5,6 @@ subtitle: |
   Do you have what it takes to be the first San Francisco Bootblack?
 date:       2017-12-08 12:00:00
 author:     "SF Bootblack Producer"
-header-img: "images/sf1.jpg"
 ---
 
 <p>

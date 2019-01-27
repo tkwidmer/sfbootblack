@@ -5,7 +5,6 @@ subtitle: |
   You know them, you love them!
 date:       2017-12-08 12:00:00
 author:     "SF Bootblack Producer"
-header-img: "images/sf1.jpg"
 ---
 
 It's time to meet your masters of ceremonies for the 2018 San Francisco Bootblack Contest!
