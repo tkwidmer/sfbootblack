@@ -29,12 +29,12 @@ hide_title: true
     <h5 class="mb-5"> Mr SF Sober Leather 2019 </h5>
   </div>
   <div class="col-md-3">
-    <img src="/images/avatar-placeholder.png" class="img-fluid"/>
+    <img src="/images/2019/mr/amp.png" class="img-fluid"/>
     <h3 class="mt-2"> Amp Somers  </h3>
     <h5 class="mb-5"> Mr Friendly SF 2019 </h5>
   </div>
   <div class="col-md-3">
-    <img src="/images/avatar-placeholder.png" class="img-fluid"/>
+    <img src="/images/2019/mr/gunner.png" class="img-fluid"/>
     <h3 class="mt-2"> Alpha Pup Gunner </h3>
     <h5 class="mb-5"> Independent </h5>
   </div>
