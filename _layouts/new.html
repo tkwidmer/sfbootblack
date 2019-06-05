@@ -2,15 +2,18 @@
 layout: default
 ---
 
-{% include redesign/navbar.html %}
+<div class="container">
 
-{% include redesign/jumbotron.html %}
-
-<div class="container-fluid">
-
+  <div class="bg-white">
+    {% include redesign/navbar.html %}
+    {% include redesign/jumbotron.html %}
+  </div>
 
   {{ content }}
-  {% include redesign/footer.html %}
+  
+  <div class="bg-white section-small mt-3">
+    {% include redesign/footer.html %}
+  </div>
 
 </div>
 

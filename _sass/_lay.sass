@@ -7,6 +7,7 @@ html
   font-size: 1em
 
 body
+  background-color: black
   font-weight: 400
   line-height: 1.45
 
@@ -33,9 +34,23 @@ h1
   .lhspace#{$i}
     margin-left: $l-space-multiplier * $i
 
+.navbar
+  margin-bottom: $v-space-multiplier
+
 .bg-white
   background-color: #ffffff !important
-  padding: $v-space-multiplier 0px
+
+.section
+  border-radius: 5px
+  padding: $v-space-multiplier * 3
+
+.section-small
+  border-radius: 5px
+  padding: $v-space-multiplier
+
+.navbar  
+  a:hover
+    text-decoration: none
 
 blockquote
   p

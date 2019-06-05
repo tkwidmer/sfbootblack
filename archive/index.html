@@ -2,42 +2,43 @@
 layout: new
 title: Posts
 ---
-
-<div class="row">
-  <div class="col-md-9">
-    {% for post in paginator.posts %}
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <small> Posted by {{ post.author }} on {{ post.date | date_to_long_string }} </small>
-      <br/>
-      {% if post.categories %}
-      <small>
-        Categories:
-        {% for category in post.categories %}
-          <a href="{{site.baseurl}}/categories/#{{category|slugize}}">
-            {{category}}
-          </a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
+<div class="section bg-white">
+  <div class="row">
+      <div class="col-md-9">
+        {% for post in paginator.posts %}
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          <small> Posted by {{ post.author }} on {{ post.date | date_to_long_string }} </small>
+          <br/>
+          {% if post.categories %}
+          <small>
+            Categories:
+            {% for category in post.categories %}
+              <a href="{{site.baseurl}}/categories/#{{category|slugize}}">
+                {{category}}
+              </a>
+            {% unless forloop.last %}&nbsp;{% endunless %}
+            {% endfor %}
+          </small>
+          {% endif %}
+          <hr>
+    
+          <div class="content vspace1 fspace4">
+            {{ post.content }}
+          </div>
         {% endfor %}
-      </small>
-      {% endif %}
-      <hr>
-
-      <div class="content vspace1 fspace4">
-        {{ post.content }}
       </div>
-    {% endfor %}
-  </div>
-  <div class="col-md-3">
-    <h3> Pages </h3>
-    <p class="page_number fspace2">Page: {{ paginator.page }} of {{ paginator.total_pages }}</p>
-    {% include redesign/pagination.html %}
-
-    <div class="vspace2"> </div>
-    {% include redesign/posts_by_year.html %}
-
-    <div class="vspace2"> </div>
-    {% include redesign/links.html %}
-  </div>
+      <div class="col-md-3">
+        <h3> Pages </h3>
+        <p class="page_number fspace2">Page: {{ paginator.page }} of {{ paginator.total_pages }}</p>
+        {% include redesign/pagination.html %}
+    
+        <div class="vspace2"> </div>
+        {% include redesign/posts_by_year.html %}
+    
+        <div class="vspace2"> </div>
+        {% include redesign/links.html %}
+      </div>
+    </div>
+    
+    <!-- This loops through the paginated posts -->      
 </div>
-
-<!-- This loops through the paginated posts -->

@@ -1,6 +1,6 @@
 {% unless page.hideJumbotron %}
 
-  <div class="jumbotron splash {{page.extra_classes}}" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')" >
+  <div class="jumbotron splash position-top {{page.extra_classes}}" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')" >
 
     <div class="container site-heading text-center vspace5">
       {% unless page.hide_title %}

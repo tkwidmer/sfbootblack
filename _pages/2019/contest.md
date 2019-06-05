@@ -1,11 +1,11 @@
 ---
 layout: new_page
-title: 2019 Contest
+title: Bootblack Contest Components
 permalink: '/2019/contest/'
 hide_title: true
 ---
 
-# Contest Components
+# Bootblack Contest Components
 
 <!-- For the full weekend schedule please visit the <a href="/2018/schedule"> schedule
 page</a>. -->

@@ -1,7 +1,7 @@
 exclude: ['vendor']
 include: ['_pages', '_pages/film', '_pages/writing', 'pages/photography']
 
-title:            San Francisco Bootblack
+title:            Mr SF Leather and SF Bootblack
 email:            producer@sanfranciscobootblack.com
 url:              http://www.sanfranciscobootblack.com
 paginate:         5
@@ -47,4 +47,4 @@ markdown: kramdown
 gems:
   - jekyll-redirect-from
 
-header-img: "images/2019/contestant_class.jpg"
+header-img: "images/2019/allisonstage.jpg"
