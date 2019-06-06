@@ -9,7 +9,7 @@ hide_title: true
 
 <div class="mt-5" />
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.contestants.allison %}
+{% include redesign/bio_card_horizantal.html judge=site.data.contest_2019.contestants.allison %}
 
 <div class="mt-2" />
 

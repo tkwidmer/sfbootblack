@@ -13,12 +13,12 @@ This year we have two amazing MC's who have a history with the Leather Alliance.
 
 <div class="row">
   <div class="col-6 text-center">
-    <img class="img-fluid" src="{{site.data.2018.mcs.lance.photo}}"/>
-    <h3> {{site.data.2018.mcs.lance.name}} </h3>
+    <img class="img-fluid" src="{{site.data.contest_2018.mcs.lance.photo}}"/>
+    <h3> {{site.data.contest_2018.mcs.lance.name}} </h3>
   </div>
   <div class="col-6 text-center">
-    <img class="img-fluid" src="{{site.data.2018.mcs.alotta.photo}}"/>
-    <h3> {{site.data.2018.mcs.alotta.name}}  </h3>
+    <img class="img-fluid" src="{{site.data.contest_2018.mcs.alotta.photo}}"/>
+    <h3> {{site.data.contest_2018.mcs.alotta.name}}  </h3>
   </div>
 </div>
 

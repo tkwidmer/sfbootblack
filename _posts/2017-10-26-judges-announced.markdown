@@ -17,15 +17,15 @@ The Leather Alliance Weekend, March 2-4, 2018 includes both the 1st San Francisc
 
 <div class="row">
   <div class="col-4 text-center">
-    <img class="img-fluid" src="{{site.data.2018.judges.tabitha.photo}}"/>
-    <h3> {{site.data.2018.judges.tabitha.name}} </h3>
+    <img class="img-fluid" src="{{site.data.contest_2018.judges.tabitha.photo}}"/>
+    <h3> {{site.data.contest_2018.judges.tabitha.name}} </h3>
   </div>
   <div class="col-4 text-center">
-    <img class="img-fluid" src="{{site.data.2018.judges.v.photo}}"/>
-    <h3> {{site.data.2018.judges.v.name}} </h3>
+    <img class="img-fluid" src="{{site.data.contest_2018.judges.v.photo}}"/>
+    <h3> {{site.data.contest_2018.judges.v.name}} </h3>
   </div>
   <div class="col-4 text-center">
-    <img class="img-fluid" src="{{site.data.2018.judges.gage.photo}}"/>
-    <h3> {{site.data.2018.judges.gage.name}} </h3>
+    <img class="img-fluid" src="{{site.data.contest_2018.judges.gage.photo}}"/>
+    <h3> {{site.data.contest_2018.judges.gage.name}} </h3>
   </div>
 </div>

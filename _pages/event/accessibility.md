@@ -5,7 +5,9 @@ permalink: '/event/accessibility/'
 hide_title: true
 ---
 
-### Accessible Event
+<div class="mt-3"></div>
+
+# Event Accessibility
 
 It’s important to the Leather Alliance that the weekend be as accessible as possible in many ways.
 
@@ -14,13 +16,9 @@ It’s important to the Leather Alliance that the weekend be as accessible as po
 
 All our event locations are wheelchair accessible, including the main floor of SF Catalyst.
 
-
-
 ### ASL interpreters
 
 All parts of the weekend will have an ASL interpreter on hand. If you need one for the Show and Tell on Saturday afternoon, please let us know so we’re sure to have you covered there too.
-
-
 
 ### Mobility
 
@@ -54,3 +52,5 @@ Have we forgotten something or have ideas on how we can improve?
 Please let us know!  We look forward to seeing you there!
 
 info@leatheralliance.org
+
+<img src="/images/2019/asl_interpreter.jpg" class="img-fluid">

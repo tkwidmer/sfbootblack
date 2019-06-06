@@ -9,42 +9,42 @@ hide_title: true
 
 <div class="mt-5"> </div>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.lucky %}
+{% include redesign/bio_card_horizantal.html judge=site.data.contest_2019.judges.lucky %}
 
 <div class="mt-5"> </div>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.ryan %}
+{% include redesign/bio_card_horizantal.html judge=site.data.contest_2019.judges.ryan %}
 
 <div class="mt-5"> </div>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.marlene %}
+{% include redesign/bio_card_horizantal.html judge=site.data.contest_2019.judges.marlene %}
 
 <div class="mt-5"> </div>
 
 <h1 class="mb-5 text-center"> Mr SF Leather 2019 Judges </h1>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.bammbamm %}
+{% include redesign/bio_card_horizantal.html judge=site.data.contest_2019.judges.bammbamm %}
 
 <div class="mt-5"> </div>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.jimmy %}
+{% include redesign/bio_card_horizantal.html judge=site.data.contest_2019.judges.jimmy %}
 
 <div class="mt-5"> </div>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.trey %}
+{% include redesign/bio_card_horizantal.html judge=site.data.contest_2019.judges.trey %}
 
 <div class="mt-5"> </div>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.keao %}
+{% include redesign/bio_card_horizantal.html judge=site.data.contest_2019.judges.keao %}
 
 <div class="mt-5"> </div>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.annie %}
+{% include redesign/bio_card_horizantal.html judge=site.data.contest_2019.judges.annie %}
 
 <div class="mt-5"> </div>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.al %}
+{% include redesign/bio_card_horizantal.html judge=site.data.contest_2019.judges.al %}
 
 <div class="mt-5"> </div>
 
-{% include redesign/bio_card_horizantal.html judge=site.data.2019.judges.erick %}
+{% include redesign/bio_card_horizantal.html judge=site.data.contest_2019.judges.erick %}
