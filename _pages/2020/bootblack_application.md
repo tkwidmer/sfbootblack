@@ -48,7 +48,7 @@ The application deadline is July 7th, 2019
 * Participate in the titleholder truck at SF Pride.
 * May not run or hold another title until the titleholder has completed their
   title year.
-* Outreach to potential contestants for San Francisco Bootblack 2019.
+* Outreach to potential contestants for San Francisco Bootblack 2021.
 * Strongly encouraged but not required to attend a regional or international
   bootblack competition.
 * Attend Stepdown the following year
