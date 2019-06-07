@@ -1,7 +1,7 @@
 ---
 layout: new_page
 title: About The Contest
-permalink: '/about/'
+permalink: '/bootblack-contest/about/'
 hide_title: true
 ---
 

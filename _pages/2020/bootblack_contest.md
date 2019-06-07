@@ -1,7 +1,7 @@
 ---
 layout: new_page
 title: Bootblack Contest Components
-permalink: '/2020/contest/'
+permalink: '/2020/bootblack-contest/'
 hide_title: true
 ---
 
