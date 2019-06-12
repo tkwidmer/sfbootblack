@@ -8,7 +8,7 @@ permalink: '/2020/bootblack-application/'
 
 ### Application Deadline
 
-The application deadline is July 7th, 2019
+The application deadline is July 7th, 2019 @ 11:59pm
 
 ### Prerequisites
 
