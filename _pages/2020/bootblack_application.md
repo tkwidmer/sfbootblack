@@ -38,7 +38,6 @@ The application deadline is July 7th, 2019 @ 11:59pm
 * Stole (to be returned at the end of the title year)
 * Medallion
 * Vest, Donated by Mr S Leather
-* Store Credit, Donated by Mr S Leather
 
 ### Requirements
 
