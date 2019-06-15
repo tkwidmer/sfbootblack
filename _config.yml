@@ -1,9 +1,9 @@
 exclude: ['vendor']
 include: ['_pages', '_pages/film', '_pages/writing', 'pages/photography']
 
-title:            Mr SF Leather and SF Bootblack
-email:            producer@sanfranciscobootblack.com
-url:              http://www.sanfranciscobootblack.com
+title:            SF Leather Pride
+email:            bootblackcontest@leatheralliance.org
+url:              http://www.sfleatherpride.com
 paginate:         5
 paginate_path:    archive/page:num/
 author:
@@ -17,9 +17,11 @@ description: > # this means to ignore newlines until "baseurl:"
   The San Francisco Bootblack contest will be held as part of the Leather Alliance Weekend 2018
   along side the Mr San Francisco Leather Contest.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.sanfranciscobootblack.com" # the base hostname & protocol for your site
+url: "http://www.sfleatherpride.com" # the base hostname & protocol for your site
 # twitter_username: twidx
 # github_username:  tkwidmer
+
+plugins: [jekyll-paginate, jekyll-redirect-from]
 
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
@@ -43,8 +45,5 @@ markdown: kramdown
 #     url: http://www.twitter.com/twidx
 #   - icon: fa-github
 #     url: http://www.github.com/tkwidmer
-
-gems:
-  - jekyll-redirect-from
 
 header-img: "images/2019/allisonstage.jpg"
