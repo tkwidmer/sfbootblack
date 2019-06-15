@@ -72,4 +72,4 @@ There is a 50$ fee for your application to be accepted. Application Fee is payab
 
 We recommend you copy paste the questions into a separate document so you do not risk losing any content due to internet issues.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfHNWwHY7ZosYkT5hpozchg563roLznszAm_G2qCt1wYX2BDA/viewform?" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<script type="text/javascript" src="https://form.jotform.com/jsform/91647055916161"></script>
