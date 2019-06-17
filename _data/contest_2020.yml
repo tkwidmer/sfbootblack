@@ -1,6 +1,7 @@
 judges:
   douglas:
     name: "Douglas"
+    title: "1st Runner Up, IMBB 2016"
     position: "Bootblack Judge"
     bio: |
       bio to come.
@@ -12,14 +13,16 @@ judges:
     bio: |
       bio to come.
     photo: "/images/avatar-placeholder.png"
-  tba:
-    name: "To be ammounced"
-    name: "Douglas"
-    title: "San Francisco Bootblack 2018"
+  elliot:
+    name: "Elliot Musgrave"
+    title: "Mr LA Leather 2019"
     position: "Bootblack Judge"
     bio: |
-      bio to come.
-    photo: "/images/avatar-placeholder.png"
+      Elliot is a personal trainer by trade, and bases his practice at Everybody Los Angeles, a radically inclusive wellness facility, serving the Queer and body positive community.  Here Elliot has established the TG/NB Project, a by Trans for Trans fitness initiative that provides free fitness classes for Trans, non-binary, and intersex folks.
+
+      He is the third person to hold the title for DTLA’s Precinct, and the first out Trans person to win the title of Mr. Los Angeles Leather.  Elliot is a lifestyle switch who loves bondage, impact, exabitionism, hook suspension, bootblacking and needle play.
+    photo: "/images/2020/elliot.jpeg"
+    photo_credit: "Dusti Cunningham"
   bammbamm:
     name: "BammBamm"
     title: "International Mr Bootblack 2015"

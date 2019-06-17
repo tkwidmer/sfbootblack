@@ -22,5 +22,9 @@
     {% unless include.hideBio %}
       <p class="vspace1"> {{ include.judge.bio | markdownify }}</p>
     {% endunless %}
+
+    {% if include.judge.photo_credit %}
+      <p class="vspace1"> <strong> Photo Credit: </strong> {{ include.judge.photo_credit }}</p>
+    {% endif %}
   </div>
 </div>
