@@ -1,6 +1,4 @@
-<h2 class="fspace1"> Recent Posts </h2>
-
-{% for post in site.posts offset: {{include.offset}} limit:5 %}
+{% for post in site.posts offset: {{include.offset}} limit:2 %}
   <a href="{{ post.url | prepend: site.baseurl }}">
     <h3 class="no-margin">
       {{ post.title }}
