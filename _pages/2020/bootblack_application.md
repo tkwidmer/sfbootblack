@@ -23,14 +23,15 @@ The application deadline is July 7th, 2019 @ 11:59pm
 * Attend all dates required for the contest.
 * Read the <a href="/2020/bootblack-contest/">contest structure</a>.
 
-### Required Dates
+# Required Dates
 
-- July 13th - Contestant's Meeting
-- Late July/Early August - Contestant Rehearsal
+- July 7th - Application Deadline
+- July 16th, 5:30pm-8:00pm - Contestant's Meeting
+- 1st Weekend of August - Contestant Rehearsal
 - August 16th Meet and Greet
 - August 17th Contest
 - August 18th Beer Bust
-- TBA August, Post Contest Brunch
+
 
 ### Winner Package
 

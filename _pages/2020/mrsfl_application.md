@@ -10,6 +10,15 @@ permalink: '/2020/mrsfl-application/'
 
 The application deadline is July 7th, 2019 @ 11:59pm. All applications should be emailed to: mrsfproducer@leatheralliance.org
 
+### Required Dates
+
+- July 7th - Application Deadline
+- July 16th, 5:30pm-8:00pm - Contestant's Meeting
+- 1st Weekend of August - Contestant Rehearsal
+- August 16th Meet and Greet
+- August 17th Contest
+- August 18th Beer Bust
+
 #### Contestant Packet
 
 The San Francisco Bay Area Leather Alliance would like to thank you for your interest in competing in the Mr. San Francisco Leather 2020 contest. As you continue in your preparations we would like to kindly remind you to review your application for any missing information, and to be sure to complete and submit all the necessary documents and attachments. As part of the application process we require a registration fee of $50.00. Checks should be made payable to the “Leather Alliance.”
