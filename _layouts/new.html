@@ -7,6 +7,9 @@ layout: default
   <div class="bg-white">
     {% include redesign/navbar.html %}
     {% include redesign/jumbotron.html %}
+    {% if page.show-header %}
+      <img class="img-fluid" src="/images/2020/contestant-class.jpg" />
+    {% endif %}
   </div>
 
   {{ content }}
