@@ -14,7 +14,7 @@ hide_title: true
 ### Become A Sponsor
 
 To become a sponsor of the 2020 contest, please
-<a href="https://docs.google.com/forms/d/1mXZdntdBSoiYpeqnYgyySxoiQk23weT-vy2ASRrr6Us/prefill"> fill out the form </a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSewTnX64hwrPWF6B0Yg6o1kS1YINIr4jNDfvvb7RYs8YteYVw/viewform"> fill out the form </a>
 
 ### Sponsorship Letter
 
