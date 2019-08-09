@@ -39,7 +39,7 @@ hide_title: true
 <div class="row">
   <div class="col-sm-3">
     <p> The Yellow And Black Group </p>
-    <img class="img-fluid" src="/images/2020/sponsors/soma_guardians.jpg" >
+    <img class="img-fluid" src="/images/2020/sponsors/yellow&black.jpg" >
   </div>
 </div>
 
