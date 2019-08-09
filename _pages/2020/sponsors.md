@@ -41,6 +41,10 @@ hide_title: true
     <p> The Yellow And Black Group </p>
     <img class="img-fluid" src="/images/2020/sponsors/yellow&black.jpg" >
   </div>
+  <div class="col-sm-3">
+    <p> SOMA Guardians </p>
+    <img class="img-fluid" src="/images/2020/sponsors/soma_guardians.jpg" >
+  </div>
 </div>
 
 <h3 class="mt-5">Step And Repeat </h3>
