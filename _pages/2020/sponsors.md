@@ -39,6 +39,10 @@ hide_title: true
     <p> The 15 Association </p>
     <img class="img-fluid" src="/images/2020/sponsors/15_association.png" >
   </div>
+  <div class="col-sm-3">
+    <p> Northwest Leather Celebration</p>
+    <img class="img-fluid" src="/images/2020/sponsors/nwlc.png" >
+  </div>
 </div>
 
 <h3 class="mt-5">Community </h3>
@@ -50,6 +54,10 @@ hide_title: true
   <div class="col-sm-3">
     <p> SOMA Guardians </p>
     <img class="img-fluid" src="/images/2020/sponsors/soma_guardians.jpg" >
+  </div>
+  <div class="col-sm-3">
+    <p> Ms Sacremento Leather </p>
+    <img class="img-fluid" src="/images/2020/sponsors/ms-sac.jpg" >
   </div>
 </div>
 
