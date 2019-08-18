@@ -9,6 +9,10 @@ hide_title: true
 
 <div class="vspace2">
 
+{% include redesign/bio_card_horizantal.html judge=site.data.titleholders.jessie %}
+
+<div class="vspace2">
+
 {% include redesign/bio_card_horizantal.html judge=site.data.titleholders.allison %}
 
 <div class="vspace2">

@@ -10,8 +10,9 @@ San Francisco sent a representative every year to IML.  David Kloss was the firs
 
 ## Mr San Francisco Leather Titleholders
 
-- 2019 Jawn Marques +
-- 2018 Matt Welch
+- 2020  Trey Onyx
+- 2019  Jawn Marques +
+- 2018  Matt Welch
 - 2017  Geoff Millard +
 - 2016  Cody Elkin
 - 2015  Trevor Black
